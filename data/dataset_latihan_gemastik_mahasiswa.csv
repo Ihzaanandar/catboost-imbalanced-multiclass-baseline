@@ -1,0 +1,1201 @@
+﻿id_mahasiswa,usia,program_studi,jenis_atap,jenis_lantai,jenis_dinding,status_rumah,sumber_air,sumber_listrik,pekerjaan_ayah,pekerjaan_ibu,pendidikan_orangtua,status_beasiswa,jalur_masuk,penghasilan_ayah,penghasilan_ibu,jumlah_tanggungan,pengeluaran_bulanan,aset_keluarga,kategori_biaya_kuliah
+MHS0001,20,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Tidak bekerja,Ibu rumah tangga,Pascasarjana,Tidak,Mandiri,8700000,6400000,3,10791790,3,5
+MHS0002,18,Manajemen,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,9750000,1050000,1,6229843,3,4
+MHS0003,20,Ilmu Komunikasi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBT,1950000,2550000,4,4584496,1,3
+MHS0004,21,Sistem Informasi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,3300000,450000,6,2932881,3,2
+MHS0005,20,Informatika,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,,4050000,2,5513810,4,5
+MHS0006,18,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,13550000,2650000,1,9852580,4,5
+MHS0007,21,Psikologi,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Tidak,Mandiri,1150000,3150000,2,4054272,3,3
+MHS0008,22,Teknik Industri,Asbes,Keramik,Bambu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Tidak bekerja,Wiraswasta,Tidak tamat SD,Ya,SNBT,3050000,400000,4,3608282,3,2
+MHS0009,19,Teknik Industri,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,Sarjana,Tidak,Mandiri,5350000,1300000,2,4821760,2,4
+MHS0010,18,Manajemen,Beton,Tanah,Tembok,Milik sendiri,,PLN di atas 1300 VA,Buruh harian,Buruh harian,SMA/SMK,Ya,SNBT,13800000,4300000,3,7041087,5,4
+MHS0011,20,Teknik Industri,Seng,Keramik,Kayu,Kontrak/sewa,,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,4550000,1350000,3,4274959,3,3
+MHS0012,23,Sistem Informasi,Asbes,Semen,Tembok,Rumah dinas,Mata air,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SD,Ya,SNBT,1150000,50000,6,1842603,2,1
+MHS0013,20,Teknik Industri,Genteng,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,1950000,850000,1,3250771,3,3
+MHS0014,22,Teknik Industri,Beton,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Ya,SNBT,3250000,5100000,5,7482525,3,3
+MHS0015,23,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Tidak,Prestasi,4900000,,1,6308437,4,5
+MHS0016,19,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,7100000,3550000,5,8112294,5,5
+MHS0017,19,Psikologi,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,13750000,2350000,3,6509249,5,5
+MHS0018,23,Manajemen,Beton,Semen,Tembok,,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,6700000,1900000,1,3859077,5,4
+MHS0019,22,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMP,Tidak,SNBP,10050000,2000000,4,7557158,3,4
+MHS0020,21,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Mandiri,12300000,8550000,2,14451949,5,5
+MHS0021,20,Teknik Sipil,Seng,Semen,Bambu,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,1150000,350000,4,1013406,1,2
+MHS0022,21,Psikologi,Beton,Tanah,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,Sarjana,Tidak,SNBP,8750000,900000,4,5478609,5,5
+MHS0023,20,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,14050000,8250000,3,13882804,1,5
+MHS0024,19,Manajemen,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBT,11750000,2550000,1,6302909,3,5
+MHS0025,20,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,SNBT,6150000,1500000,4,4427334,4,5
+MHS0026,25,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Karyawan swasta,SD,Tidak,SNBT,3350000,1150000,2,4373927,4,4
+MHS0027,21,Ilmu Komunikasi,Asbes,Semen,Bambu,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,2650000,3050000,3,4494988,4,4
+MHS0028,22,Teknik Sipil,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,11850000,3800000,4,7995181,,5
+MHS0029,21,Akuntansi,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,,SMA/SMK,Ya,SNBP,3200000,700000,3,1967041,1,3
+MHS0030,19,Ilmu Komunikasi,Beton,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Ya,SNBT,3850000,1150000,2,2397690,1,4
+MHS0031,21,Teknik Sipil,Beton,Tanah,Tembok,,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Ya,Mandiri,2000000,1050000,3,2510164,3,5
+MHS0032,21,Informatika,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBT,4750000,1250000,3,3864514,3,4
+MHS0033,20,Manajemen,Beton,Tanah,Tembok,Milik sendiri,Mata air,PLN di atas 1300 VA,Profesional,Buruh harian,SMP,Tidak,Mandiri,9450000,3150000,4,7626972,3,5
+MHS0034,19,Psikologi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Tidak,SNBP,15900000,4400000,5,17247908,4,5
+MHS0035,20,Teknik Sipil,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,SNBT,10300000,6250000,3,6226125,5,5
+MHS0036,20,Manajemen,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Karyawan swasta,SD,Tidak,SNBP,5700000,1350000,3,4848772,3,4
+MHS0037,22,Teknik Industri,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBT,3450000,6900000,2,6893490,3,5
+MHS0038,22,Akuntansi,Beton,Marmer,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,6900000,6650000,2,10007767,3,5
+MHS0039,23,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMP,Ya,SNBT,7750000,8300000,2,8550754,4,5
+MHS0040,20,Teknik Industri,Seng,Tanah,Campuran,Kontrak/sewa,PDAM,Non-PLN,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,5150000,800000,2,5839531,2,3
+MHS0041,22,Teknik Industri,Beton,Tanah,Kayu,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SD,Tidak,Mandiri,2850000,1100000,4,2326930,3,3
+MHS0042,20,Sistem Informasi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3350000,1450000,2,2366845,2,4
+MHS0043,22,Psikologi,Asbes,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,4750000,3000000,3,3671815,,5
+MHS0044,21,Informatika,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,Non-PLN,Buruh harian,Ibu rumah tangga,SD,Tidak,Mandiri,700000,550000,3,1203059,2,1
+MHS0045,23,Akuntansi,Beton,Tanah,Campuran,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,5600000,4450000,4,4619114,3,4
+MHS0046,19,Ilmu Komunikasi,Seng,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,Non-PLN,Tidak bekerja,Ibu rumah tangga,SD,Ya,SNBT,1550000,2500000,3,1992189,2,3
+MHS0047,19,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,15050000,7950000,4,12318956,5,5
+MHS0048,21,Manajemen,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Profesional,Sarjana,Tidak,SNBT,2250000,450000,5,2481198,3,3
+MHS0049,18,Psikologi,Genteng,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBT,7950000,1250000,3,7814290,4,3
+MHS0050,19,Ilmu Komunikasi,Seng,Tanah,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Ya,SNBP,2300000,,3,1515200,3,2
+MHS0051,22,Informatika,Genteng,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,1050000,2450000,6,3438401,4,2
+MHS0052,21,Teknik Industri,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,Prestasi,,900000,2,,4,3
+MHS0053,22,Akuntansi,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,11850000,1700000,1,8581074,5,5
+MHS0054,20,Sistem Informasi,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,6350000,850000,1,3900000,3,4
+MHS0055,21,Teknik Sipil,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Buruh harian,Wiraswasta,SMP,Ya,SNBP,3750000,2200000,5,2955621,2,3
+MHS0056,18,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Profesional,Wiraswasta,Pascasarjana,Tidak,SNBP,11300000,2600000,4,5990148,5,5
+MHS0057,22,Manajemen,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Tidak,Mandiri,,1300000,3,6948951,4,4
+MHS0058,21,Teknik Sipil,Seng,Keramik,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Tidak bekerja,Karyawan swasta,SMP,Ya,SNBP,5350000,1100000,4,4470093,2,3
+MHS0059,19,Manajemen,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,7100000,3150000,2,7028988,5,5
+MHS0060,22,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Petani/nelayan,Wiraswasta,Diploma,Ya,Mandiri,17350000,,3,9992179,5,4
+MHS0061,22,Teknik Sipil,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Profesional,SMA/SMK,Tidak,SNBT,15900000,2300000,4,9794375,5,5
+MHS0062,18,Manajemen,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBP,3600000,,3,4220869,3,4
+MHS0063,22,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,SD,Tidak,Prestasi,22750000,3650000,2,13888244,3,5
+MHS0064,21,Akuntansi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Pascasarjana,Tidak,SNBT,5950000,5650000,1,8523037,5,5
+MHS0065,17,Teknik Industri,Seng,Semen,Tembok,Rumah dinas,Mata air,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMP,Tidak,SNBT,14350000,7050000,3,8002199,5,5
+MHS0066,20,Ilmu Komunikasi,Seng,Tanah,Bambu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,1200000,650000,4,2090274,3,1
+MHS0067,18,Sistem Informasi,Genteng,Tanah,Kayu,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,450000,,3,1476858,1,1
+MHS0068,24,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Profesional,Sarjana,Tidak,SNBP,14550000,1550000,2,14019336,5,5
+MHS0069,20,Psikologi,Seng,Tanah,Bambu,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,Tidak tamat SD,Ya,SNBT,850000,200000,4,1283138,3,1
+MHS0070,18,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 450 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3250000,2350000,2,3814562,4,4
+MHS0071,20,Teknik Sipil,Seng,Marmer,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Ya,Mandiri,950000,550000,6,1733910,3,2
+MHS0072,22,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,8950000,5450000,1,7841909,5,5
+MHS0073,22,Teknik Industri,Beton,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,4400000,1250000,1,4815280,5,5
+MHS0074,23,Ilmu Komunikasi,Asbes,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Buruh harian,SMA/SMK,Ya,Mandiri,1350000,350000,2,1081703,1,2
+MHS0075,18,Teknik Sipil,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,13000000,5450000,2,10092258,2,5
+MHS0076,21,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,5900000,1800000,2,,3,4
+MHS0077,23,Manajemen,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Prestasi,9400000,1650000,4,9651128,,4
+MHS0078,19,Ilmu Komunikasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Tidak,SNBT,6450000,1650000,2,7460294,4,4
+MHS0079,20,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,Non-PLN,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,7750000,1500000,4,4372935,3,5
+MHS0080,20,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,14000000,700000,2,11971714,3,4
+MHS0081,22,Informatika,Seng,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Profesional,Karyawan swasta,SD,Tidak,SNBP,2500000,900000,3,3692409,1,3
+MHS0082,22,Informatika,Asbes,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMP,Tidak,Mandiri,6850000,5550000,3,7389350,5,5
+MHS0083,21,Psikologi,Asbes,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Wiraswasta,Buruh harian,Sarjana,Tidak,Mandiri,8300000,2000000,3,6441270,1,4
+MHS0084,22,Ilmu Komunikasi,Asbes,Keramik,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,PNS/TNI/Polri,SMP,Ya,Mandiri,4900000,650000,3,3765575,1,2
+MHS0085,22,Teknik Industri,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,Karyawan swasta,SMA/SMK,Tidak,SNBT,7050000,10150000,3,13854840,4,5
+MHS0086,20,Manajemen,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,16250000,4400000,3,9434957,5,5
+MHS0087,21,Teknik Industri,Seng,Keramik,Tembok,Kontrak/sewa,Mata air,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SD,Ya,SNBT,550000,1250000,3,1406168,2,2
+MHS0088,20,Sistem Informasi,Beton,Marmer,Kayu,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Petani/nelayan,Karyawan swasta,SMA/SMK,Ya,SNBT,14550000,1550000,4,6094936,3,5
+MHS0089,22,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,4650000,7200000,4,7683924,2,5
+MHS0090,19,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,Mandiri,15250000,3400000,3,9768163,3,5
+MHS0091,20,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,Sarjana,Tidak,Mandiri,7500000,3050000,1,9159093,3,5
+MHS0092,20,Teknik Sipil,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,Non-PLN,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,5900000,1400000,2,6551743,3,3
+MHS0093,21,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,Mandiri,2800000,1000000,3,2067642,4,3
+MHS0094,19,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 450 VA,Profesional,Profesional,SMA/SMK,Tidak,Prestasi,1800000,4600000,2,3947554,1,4
+MHS0095,20,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMP,Ya,SNBT,3750000,1000000,1,4194777,2,4
+MHS0096,23,Teknik Sipil,Seng,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,Tidak tamat SD,Tidak,SNBT,11100000,2600000,3,6663184,5,5
+MHS0097,19,Manajemen,Asbes,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,PNS/TNI/Polri,Profesional,SMA/SMK,Ya,Mandiri,4450000,850000,3,4148523,3,3
+MHS0098,19,Manajemen,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Ya,SNBT,1550000,700000,6,1474010,1,3
+MHS0099,21,Sistem Informasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,6350000,27000000,5,27814939,3,5
+MHS0100,20,Psikologi,Seng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,450000,350000,4,1325955,2,2
+MHS0101,19,Ilmu Komunikasi,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,Mandiri,6500000,4150000,5,4859327,3,5
+MHS0102,20,Manajemen,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Wiraswasta,Buruh harian,SMP,Tidak,SNBT,6500000,1400000,4,5189589,3,3
+MHS0103,21,Teknik Sipil,Asbes,Semen,Bambu,Milik sendiri,,PLN di atas 1300 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Tidak,SNBT,3250000,1100000,3,1951448,3,4
+MHS0104,21,Sistem Informasi,Beton,Marmer,Tembok,Milik sendiri,,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Pascasarjana,Tidak,Mandiri,8550000,5000000,1,7853519,5,5
+MHS0105,23,Psikologi,Asbes,Tanah,Tembok,,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,3000000,700000,4,2796775,2,3
+MHS0106,20,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,3600000,3750000,3,5118804,5,5
+MHS0107,22,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,Pascasarjana,Ya,Prestasi,7150000,2300000,4,7471893,4,4
+MHS0108,18,Sistem Informasi,Seng,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMP,Tidak,Mandiri,1000000,850000,3,1240054,2,3
+MHS0109,18,Teknik Sipil,Asbes,Tanah,Kayu,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Karyawan swasta,Buruh harian,SMP,Ya,SNBP,450000,200000,3,1109775,,1
+MHS0110,23,Sistem Informasi,Beton,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Buruh harian,Profesional,SMA/SMK,Ya,SNBP,1500000,1250000,4,1553179,3,3
+MHS0111,22,Manajemen,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Buruh harian,Wiraswasta,SD,Tidak,SNBP,3050000,850000,2,4046156,2,3
+MHS0112,22,Ilmu Komunikasi,Genteng,Tanah,Kayu,Kontrak/sewa,PDAM,PLN 450 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,1100000,1850000,3,1973196,2,2
+MHS0113,20,Manajemen,Asbes,Tanah,Tembok,Kontrak/sewa,,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3900000,2600000,4,3449272,4,4
+MHS0114,22,Sistem Informasi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Petani/nelayan,Buruh harian,SMP,Tidak,SNBT,3200000,650000,3,3730649,4,3
+MHS0115,22,Ilmu Komunikasi,Genteng,Keramik,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Ya,SNBT,3800000,1350000,3,2808462,5,3
+MHS0116,21,Sistem Informasi,Asbes,Tanah,Campuran,Milik sendiri,Mata air,PLN di atas 1300 VA,Profesional,Wiraswasta,SMP,Tidak,Mandiri,15950000,1150000,4,12350685,5,4
+MHS0117,21,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,SNBT,5700000,3200000,3,3965921,2,4
+MHS0118,22,Sistem Informasi,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Profesional,Sarjana,Tidak,SNBP,14450000,3450000,6,14033451,4,5
+MHS0119,17,Sistem Informasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,SNBT,5450000,2700000,2,7258819,2,5
+MHS0120,20,Informatika,Genteng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Profesional,SMA/SMK,Tidak,Mandiri,2350000,550000,5,1435227,1,2
+MHS0121,20,Ilmu Komunikasi,Seng,Semen,Kayu,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,6350000,900000,4,5656639,3,3
+MHS0122,23,Sistem Informasi,Beton,Keramik,Kayu,Kontrak/sewa,,PLN 450 VA,PNS/TNI/Polri,Ibu rumah tangga,SD,Tidak,Mandiri,1400000,,4,1182474,3,1
+MHS0123,19,Teknik Industri,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBP,10850000,3400000,3,11899245,5,5
+MHS0124,21,Ilmu Komunikasi,Seng,Marmer,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Wiraswasta,Buruh harian,Diploma,Tidak,Mandiri,5900000,700000,5,5313620,2,3
+MHS0125,20,Informatika,Asbes,Semen,Kayu,Kontrak/sewa,PDAM,PLN 450 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,SNBP,750000,350000,4,1391297,2,1
+MHS0126,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBT,20800000,2700000,1,12935442,5,5
+MHS0127,20,Akuntansi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,Tidak tamat SD,Tidak,Mandiri,2000000,1250000,4,2809872,2,2
+MHS0128,19,Manajemen,Asbes,Keramik,Campuran,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Petani/nelayan,Buruh harian,SMP,Tidak,SNBT,2000000,,3,1730052,2,2
+MHS0129,20,Manajemen,Beton,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,6800000,1950000,2,5817369,3,4
+MHS0130,20,Manajemen,Beton,Semen,Campuran,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Ya,Mandiri,15150000,4350000,1,8361054,5,5
+MHS0131,21,Manajemen,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,8350000,1750000,2,4832673,4,5
+MHS0132,21,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,Diploma,Tidak,SNBT,2900000,12550000,2,9129744,5,5
+MHS0133,20,Teknik Industri,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Tidak,SNBT,14950000,3700000,3,11487251,5,5
+MHS0134,22,Informatika,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,23700000,6250000,4,16687281,3,5
+MHS0135,19,Ilmu Komunikasi,Asbes,Semen,Kayu,Milik sendiri,PDAM,PLN 900 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,SNBT,2800000,600000,4,3523657,1,2
+MHS0136,19,Informatika,Seng,Keramik,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SD,Ya,SNBP,1800000,500000,3,2634310,1,2
+MHS0137,21,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Buruh harian,Buruh harian,Sarjana,Tidak,Mandiri,7550000,,2,7614731,1,4
+MHS0138,21,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Tidak bekerja,Wiraswasta,SMP,Tidak,SNBT,8400000,1200000,2,7180534,4,4
+MHS0139,21,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,SNBP,10050000,1900000,3,10161198,4,4
+MHS0140,21,Sistem Informasi,Seng,Tanah,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,Profesional,Profesional,SMA/SMK,Ya,SNBP,1000000,600000,3,1450125,3,3
+MHS0141,21,Psikologi,Seng,Semen,Bambu,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,450000,250000,6,1454503,3,1
+MHS0142,19,Teknik Industri,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 450 VA,Wiraswasta,PNS/TNI/Polri,Pascasarjana,Tidak,SNBP,7700000,3100000,3,9699068,4,4
+MHS0143,20,Akuntansi,Beton,Semen,Bambu,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Buruh harian,Pascasarjana,Tidak,SNBT,13200000,6450000,6,13285300,5,5
+MHS0144,19,Akuntansi,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Pascasarjana,Tidak,SNBP,,,3,2803511,5,4
+MHS0145,20,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Profesional,Tidak tamat SD,Tidak,SNBT,6500000,350000,3,4291235,5,3
+MHS0146,22,Informatika,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMP,Tidak,SNBP,6850000,2250000,5,5150246,5,4
+MHS0147,18,Teknik Sipil,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,,400000,2,2413558,2,2
+MHS0148,21,Teknik Industri,Asbes,Marmer,Tembok,Milik sendiri,Mata air,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,Sarjana,Tidak,SNBP,14300000,,1,15945609,1,5
+MHS0149,19,Sistem Informasi,Asbes,Marmer,Tembok,Milik sendiri,Sumur tidak terlindungi,Non-PLN,Buruh harian,Ibu rumah tangga,Tidak tamat SD,Tidak,Mandiri,2500000,550000,4,3481190,4,2
+MHS0150,22,Teknik Sipil,Seng,Tanah,Tembok,Menumpang keluarga,Mata air,PLN 450 VA,Wiraswasta,Buruh harian,SMP,Ya,SNBP,650000,250000,6,1664980,3,1
+MHS0151,21,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 450 VA,Profesional,Wiraswasta,Diploma,Tidak,SNBP,5250000,1300000,5,5985071,1,3
+MHS0152,21,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBP,5650000,,6,,5,5
+MHS0153,22,Sistem Informasi,Seng,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 450 VA,Profesional,PNS/TNI/Polri,SMA/SMK,Ya,SNBT,1900000,950000,6,2040915,1,2
+MHS0154,20,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,17350000,4100000,3,8460100,3,5
+MHS0155,18,Manajemen,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,,950000,5,1748462,3,3
+MHS0156,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,Prestasi,4350000,850000,3,3502896,,4
+MHS0157,22,Manajemen,Beton,Keramik,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,11400000,1100000,2,6316073,5,5
+MHS0158,21,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,SNBP,14500000,1150000,2,8755828,5,5
+MHS0159,20,Informatika,Genteng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 450 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,1700000,750000,6,2762258,5,3
+MHS0160,20,Informatika,Beton,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 450 VA,Buruh harian,Wiraswasta,SD,Tidak,SNBP,3700000,1100000,4,3577306,1,3
+MHS0161,21,Teknik Sipil,Seng,Keramik,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 450 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,SNBP,750000,200000,3,904495,2,1
+MHS0162,22,Psikologi,Beton,Tanah,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,13100000,7100000,2,8242060,3,5
+MHS0163,19,Ilmu Komunikasi,Genteng,Keramik,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,Tidak tamat SD,Tidak,SNBP,2500000,,3,2976766,5,3
+MHS0164,21,Teknik Sipil,Genteng,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,14250000,2450000,3,10655823,5,5
+MHS0165,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,8750000,3250000,5,8928363,3,5
+MHS0166,23,Psikologi,Asbes,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Buruh harian,SMP,Ya,Mandiri,3150000,,6,1766804,2,2
+MHS0167,20,Manajemen,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,13800000,7000000,3,9423829,4,5
+MHS0168,21,Manajemen,Asbes,Marmer,Tembok,,PDAM,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,Sarjana,Tidak,SNBP,4200000,2750000,1,4184455,3,5
+MHS0169,22,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Karyawan swasta,Sarjana,Tidak,Mandiri,9300000,,4,8005469,3,5
+MHS0170,23,Sistem Informasi,Seng,Keramik,Bambu,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMP,Tidak,SNBP,550000,300000,6,1004752,,1
+MHS0171,21,Informatika,Asbes,Semen,Campuran,Kontrak/sewa,Sumur terlindungi,Non-PLN,Karyawan swasta,Wiraswasta,SMA/SMK,Ya,SNBT,6550000,800000,5,4023794,2,3
+MHS0172,21,Psikologi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Buruh harian,Sarjana,Tidak,SNBP,6600000,3050000,3,8545494,4,4
+MHS0173,17,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Karyawan swasta,SD,Tidak,SNBP,4500000,1750000,2,3008872,5,4
+MHS0174,19,Psikologi,Beton,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Ya,SNBT,3700000,650000,3,3855665,1,3
+MHS0175,23,Akuntansi,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,3050000,3100000,5,4754141,4,5
+MHS0176,21,Psikologi,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMP,Tidak,SNBT,8550000,750000,3,4016592,1,4
+MHS0177,21,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,5350000,4400000,3,4838168,2,5
+MHS0178,22,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,Sarjana,Tidak,SNBP,8550000,4950000,1,7804869,4,5
+MHS0179,19,Informatika,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMP,Ya,SNBP,4650000,650000,4,3723057,1,3
+MHS0180,19,Teknik Sipil,Asbes,Marmer,Kayu,Kontrak/sewa,,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Diploma,Tidak,SNBP,11200000,1800000,3,11479967,3,4
+MHS0181,18,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Mata air,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMP,Ya,Prestasi,900000,400000,6,1080698,3,1
+MHS0182,19,Manajemen,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Pascasarjana,Tidak,SNBT,20600000,3400000,6,20621154,5,5
+MHS0183,19,Teknik Sipil,Asbes,Semen,Tembok,,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Tidak,Mandiri,19500000,5750000,3,14457248,5,5
+MHS0184,20,Informatika,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Buruh harian,Karyawan swasta,SMA/SMK,Tidak,Mandiri,13200000,1300000,3,12636249,1,4
+MHS0185,22,Sistem Informasi,Seng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Profesional,SMP,Ya,Mandiri,2300000,550000,4,1830670,3,2
+MHS0186,20,Psikologi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMP,Ya,SNBP,10650000,2650000,3,8632246,3,4
+MHS0187,22,Psikologi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,26450000,2950000,1,24169220,4,5
+MHS0188,19,Teknik Sipil,Seng,Keramik,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Tidak bekerja,Profesional,SMA/SMK,Ya,Mandiri,800000,500000,5,1892540,1,1
+MHS0189,21,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,PNS/TNI/Polri,Profesional,Diploma,Tidak,Mandiri,22350000,3400000,5,19481198,4,5
+MHS0190,19,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,19800000,5200000,5,20263935,2,5
+MHS0191,22,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,7600000,6400000,4,9938951,4,5
+MHS0192,20,Akuntansi,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,1700000,350000,6,1172966,2,3
+MHS0193,22,Sistem Informasi,Seng,Keramik,Kayu,Menumpang keluarga,Mata air,PLN 450 VA,Buruh harian,Ibu rumah tangga,SMP,Ya,SNBT,1100000,600000,3,1752788,2,1
+MHS0194,24,Informatika,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMP,Ya,Mandiri,2950000,950000,2,3567630,4,4
+MHS0195,20,Psikologi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Buruh harian,SMA/SMK,Tidak,SNBT,4950000,1650000,2,3368659,3,4
+MHS0196,18,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,11150000,4550000,3,13599565,3,5
+MHS0197,23,Akuntansi,Beton,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,5300000,3200000,2,4653163,2,5
+MHS0198,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBP,7000000,500000,4,6733697,4,4
+MHS0199,19,Manajemen,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Ya,Mandiri,7550000,3600000,1,6274919,5,5
+MHS0200,22,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBP,12800000,,5,13946419,5,5
+MHS0201,20,Informatika,Seng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,7100000,2200000,2,3867615,4,4
+MHS0202,20,Manajemen,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,SNBT,11350000,1900000,3,11427084,3,5
+MHS0203,22,Sistem Informasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,9450000,1800000,4,6127364,1,5
+MHS0204,19,Manajemen,Asbes,Tanah,Kayu,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SD,Tidak,SNBP,10100000,4850000,4,8660531,2,5
+MHS0205,20,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,25050000,3450000,2,13494838,3,5
+MHS0206,20,Akuntansi,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,2850000,700000,5,2632678,4,3
+MHS0207,18,Teknik Sipil,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,4150000,2250000,4,3943109,4,4
+MHS0208,22,Informatika,Beton,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Profesional,,Tidak,Mandiri,6200000,950000,3,4508442,3,4
+MHS0209,20,Teknik Industri,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,Profesional,Sarjana,Tidak,Mandiri,10600000,2700000,1,6012375,5,5
+MHS0210,23,Akuntansi,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Profesional,,Tidak,SNBT,4350000,3050000,4,4775355,3,4
+MHS0211,21,Sistem Informasi,Seng,Keramik,Bambu,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Profesional,Karyawan swasta,SMA/SMK,Ya,Prestasi,850000,850000,4,1328120,2,2
+MHS0212,20,Teknik Industri,Genteng,Marmer,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Petani/nelayan,Karyawan swasta,SMA/SMK,Tidak,SNBT,9850000,3200000,1,7585356,3,5
+MHS0213,23,Akuntansi,Genteng,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBT,4550000,2500000,3,3990713,5,4
+MHS0214,21,Teknik Sipil,Genteng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,Non-PLN,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,3450000,600000,1,2640178,4,3
+MHS0215,20,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Buruh harian,SMA/SMK,Tidak,SNBT,8500000,1500000,2,7837259,5,5
+MHS0216,22,Psikologi,Seng,Keramik,Tembok,Rumah dinas,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Buruh harian,SMA/SMK,Tidak,SNBT,5900000,400000,5,4473250,3,3
+MHS0217,19,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,Mandiri,13950000,850000,2,6947308,5,4
+MHS0218,22,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,Sarjana,Tidak,SNBT,28750000,4050000,2,27875277,4,5
+MHS0219,19,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Tidak bekerja,Wiraswasta,SMP,Tidak,SNBT,4950000,400000,2,3296337,4,4
+MHS0220,19,Akuntansi,Asbes,Semen,Tembok,Rumah dinas,PDAM,PLN 900 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBP,6000000,1200000,4,6082574,4,4
+MHS0221,20,Ilmu Komunikasi,Seng,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,8000000,1900000,5,8817265,3,4
+MHS0222,20,Akuntansi,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Tidak,SNBP,12300000,6600000,3,,3,4
+MHS0223,21,Manajemen,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,Sarjana,Tidak,SNBP,10200000,2300000,4,5222600,4,5
+MHS0224,21,Psikologi,Asbes,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Ya,Prestasi,6350000,1100000,4,4361226,1,2
+MHS0225,20,Teknik Sipil,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Profesional,,Ya,Prestasi,13750000,1500000,4,12944000,2,4
+MHS0226,21,Psikologi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,4400000,1700000,2,3443690,2,5
+MHS0227,23,Sistem Informasi,Asbes,Semen,Tembok,Rumah dinas,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SD,Tidak,SNBT,4450000,2100000,2,2813296,3,4
+MHS0228,22,Akuntansi,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Profesional,Profesional,Sarjana,Tidak,Mandiri,20250000,2650000,4,11745027,4,5
+MHS0229,22,Informatika,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBP,3350000,2350000,3,3070622,3,4
+MHS0230,20,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Profesional,SMP,Tidak,Mandiri,,2800000,4,9757300,3,5
+MHS0231,20,Informatika,Seng,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Buruh harian,Karyawan swasta,SMA/SMK,Tidak,SNBT,,750000,4,1607663,2,2
+MHS0232,20,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,Sarjana,Tidak,SNBT,11800000,2600000,3,6016102,4,5
+MHS0233,19,Teknik Sipil,Genteng,Keramik,Kayu,Menumpang keluarga,PDAM,PLN 900 VA,Tidak bekerja,Wiraswasta,SMP,Ya,Mandiri,2350000,1500000,3,2683984,1,2
+MHS0234,20,Manajemen,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,PNS/TNI/Polri,Sarjana,Ya,Mandiri,3750000,3100000,4,5190663,2,5
+MHS0235,19,Ilmu Komunikasi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Pascasarjana,Tidak,SNBT,4450000,5150000,3,5118546,1,5
+MHS0236,21,Sistem Informasi,Beton,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,3900000,,4,3154861,3,3
+MHS0237,23,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,15650000,2350000,2,9339046,5,5
+MHS0238,20,Teknik Industri,Seng,Tanah,Tembok,Milik sendiri,Mata air,PLN 900 VA,Buruh harian,Buruh harian,SMA/SMK,Tidak,SNBT,,150000,5,1916174,3,2
+MHS0239,19,Informatika,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,10900000,4850000,3,6271421,,5
+MHS0240,20,Informatika,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,Sarjana,Ya,SNBT,10300000,1400000,1,5316782,4,5
+MHS0241,20,Sistem Informasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Tidak,SNBT,16750000,2000000,4,8663006,5,5
+MHS0242,22,Akuntansi,Asbes,Semen,Bambu,Menumpang keluarga,PDAM,PLN 900 VA,Karyawan swasta,Buruh harian,Pascasarjana,Ya,SNBT,12100000,900000,4,8365822,1,3
+MHS0243,21,Psikologi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,1550000,4650000,3,5485002,3,3
+MHS0244,20,Teknik Sipil,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,Wiraswasta,Sarjana,Tidak,SNBT,35950000,1900000,4,22406246,4,5
+MHS0245,20,Teknik Industri,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBP,14850000,4350000,1,12967097,5,5
+MHS0246,19,Manajemen,Genteng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,1900000,400000,5,2264706,4,3
+MHS0247,22,Informatika,Beton,Marmer,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,4800000,3400000,1,7030908,3,4
+MHS0248,20,Teknik Industri,Asbes,Keramik,Bambu,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Ya,Prestasi,2750000,400000,4,2861166,3,2
+MHS0249,22,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Profesional,SMA/SMK,Ya,SNBT,40200000,7600000,1,24604194,4,5
+MHS0250,19,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Buruh harian,Wiraswasta,Sarjana,Ya,SNBP,4800000,1350000,3,2706230,3,3
+MHS0251,18,Teknik Industri,Seng,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SD,Tidak,SNBT,3100000,700000,4,2858308,3,3
+MHS0252,20,Psikologi,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Buruh harian,Karyawan swasta,SD,Tidak,SNBP,1500000,1850000,3,3025082,4,3
+MHS0253,20,Sistem Informasi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Profesional,SMP,Tidak,SNBP,3400000,5350000,4,,5,5
+MHS0254,21,Akuntansi,Beton,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Ya,SNBT,19050000,3250000,3,11759921,4,5
+MHS0255,23,Psikologi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN 900 VA,Petani/nelayan,Karyawan swasta,,Ya,SNBT,2500000,2600000,4,4223200,3,4
+MHS0256,22,Sistem Informasi,Beton,Semen,Bambu,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Wiraswasta,SMA/SMK,Ya,SNBT,1700000,150000,2,,1,2
+MHS0257,22,Informatika,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Pascasarjana,Tidak,SNBT,11400000,1050000,6,9441850,5,4
+MHS0258,21,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,,Diploma,Ya,Mandiri,31750000,7500000,1,22847663,3,5
+MHS0259,20,Teknik Sipil,Genteng,Keramik,Tembok,Menumpang keluarga,PDAM,PLN 450 VA,Petani/nelayan,Karyawan swasta,SMA/SMK,Ya,SNBP,500000,100000,3,1278773,3,1
+MHS0260,18,Sistem Informasi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,Sarjana,Tidak,SNBT,9600000,1800000,3,4561840,3,5
+MHS0261,20,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,5400000,1750000,1,4718403,3,4
+MHS0262,22,Sistem Informasi,Asbes,Tanah,Tembok,Menumpang keluarga,,PLN 450 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Tidak,SNBP,3000000,1550000,3,3104884,3,4
+MHS0263,21,Sistem Informasi,Asbes,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,18850000,4350000,3,9913419,5,5
+MHS0264,20,Psikologi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Sarjana,Tidak,SNBT,10300000,,1,,5,5
+MHS0265,22,Informatika,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Pascasarjana,Tidak,SNBT,11250000,1750000,3,11403687,4,5
+MHS0266,20,Manajemen,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,Wiraswasta,SMP,Tidak,SNBP,33950000,3950000,3,24904349,4,4
+MHS0267,22,Teknik Industri,Asbes,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMP,Tidak,Mandiri,10900000,1050000,1,5435529,5,5
+MHS0268,21,Informatika,Genteng,Marmer,Tembok,,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,7950000,5450000,4,9167980,5,5
+MHS0269,20,Manajemen,Beton,Tanah,Tembok,,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,Pascasarjana,Tidak,Prestasi,8050000,1800000,4,5172855,5,5
+MHS0270,17,Sistem Informasi,Genteng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,,Tidak,SNBP,8650000,3500000,2,10928867,4,5
+MHS0271,21,Manajemen,Genteng,Keramik,Kayu,Kontrak/sewa,PDAM,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMP,Ya,Mandiri,1650000,450000,6,1531960,2,2
+MHS0272,19,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,SNBP,24700000,3950000,2,17095506,3,5
+MHS0273,21,Informatika,Asbes,Tanah,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,10500000,1350000,3,10527699,5,4
+MHS0274,22,Sistem Informasi,Seng,Keramik,Kayu,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,PNS/TNI/Polri,Wiraswasta,SMP,Tidak,SNBP,3800000,2600000,5,5376134,2,3
+MHS0275,20,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,Mandiri,18050000,3050000,2,15716834,5,5
+MHS0276,21,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,11900000,4900000,2,12510475,4,5
+MHS0277,19,Sistem Informasi,Beton,Marmer,Kayu,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Ya,Mandiri,4750000,1950000,2,2963562,4,4
+MHS0278,22,Manajemen,Asbes,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,Mandiri,16950000,2050000,2,10687731,3,4
+MHS0279,20,Teknik Industri,Beton,Semen,Campuran,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,,Tidak,Mandiri,3450000,1550000,1,3762587,4,4
+MHS0280,21,Manajemen,Asbes,Semen,Kayu,Kontrak/sewa,PDAM,Non-PLN,Petani/nelayan,,SD,Ya,SNBP,2650000,550000,4,3143439,3,1
+MHS0281,20,Psikologi,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,PNS/TNI/Polri,SD,Tidak,SNBP,6650000,8850000,3,12479217,5,5
+MHS0282,20,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMP,Tidak,SNBT,16700000,3150000,2,12626534,2,5
+MHS0283,22,Sistem Informasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,22300000,3250000,3,10818565,3,5
+MHS0284,21,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Ya,SNBP,11850000,1750000,5,6872666,2,5
+MHS0285,20,Akuntansi,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Tidak,Mandiri,9100000,5300000,4,10248288,2,4
+MHS0286,18,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Tidak,SNBT,3850000,700000,3,3299998,1,3
+MHS0287,22,Akuntansi,Beton,Tanah,Tembok,Rumah dinas,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Mandiri,60000000,3750000,2,26290929,4,5
+MHS0288,20,Sistem Informasi,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBT,4550000,4150000,4,5568026,5,5
+MHS0289,18,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Profesional,Wiraswasta,SMA/SMK,Tidak,SNBT,1300000,650000,4,1996712,3,3
+MHS0290,18,Sistem Informasi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Ya,SNBP,2750000,700000,3,2920145,3,3
+MHS0291,17,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,,PLN 450 VA,Karyawan swasta,Wiraswasta,SMP,Tidak,SNBT,6050000,850000,2,3463379,3,4
+MHS0292,21,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,Non-PLN,Wiraswasta,Karyawan swasta,Diploma,Tidak,SNBT,10150000,350000,5,5971068,1,4
+MHS0293,22,Informatika,Beton,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Profesional,Ibu rumah tangga,Pascasarjana,Tidak,Mandiri,16350000,1150000,4,,5,5
+MHS0294,21,Teknik Sipil,Asbes,Tanah,Tembok,Milik sendiri,Mata air,PLN di atas 1300 VA,Wiraswasta,Buruh harian,SMP,Tidak,SNBT,9150000,1600000,1,8959497,4,4
+MHS0295,20,Teknik Industri,Seng,Marmer,Tembok,Kontrak/sewa,Mata air,PLN 450 VA,Tidak bekerja,Ibu rumah tangga,SMP,Ya,SNBP,6100000,350000,4,5684709,2,2
+MHS0296,20,Teknik Sipil,Seng,Semen,Tembok,Rumah dinas,Sumur terlindungi,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,SNBT,5000000,700000,2,5448090,2,2
+MHS0297,20,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Ya,SNBP,4550000,2100000,4,4430176,1,4
+MHS0298,21,Ilmu Komunikasi,Asbes,Keramik,Campuran,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Profesional,Buruh harian,SMA/SMK,Ya,SNBT,7050000,800000,3,6631514,4,3
+MHS0299,21,Manajemen,Genteng,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,Mandiri,9950000,4250000,4,10221824,2,4
+MHS0300,21,Teknik Sipil,Seng,Marmer,Tembok,Milik sendiri,PDAM,PLN 900 VA,PNS/TNI/Polri,Karyawan swasta,Pascasarjana,Tidak,Mandiri,5100000,2850000,1,7403336,4,5
+MHS0301,20,Ilmu Komunikasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Wiraswasta,Buruh harian,Diploma,Tidak,Mandiri,11300000,4350000,3,8076140,5,5
+MHS0302,21,Akuntansi,Genteng,Keramik,Tembok,Milik sendiri,PDAM,PLN 900 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,7150000,2450000,4,5742531,,4
+MHS0303,18,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Pascasarjana,Tidak,SNBT,9250000,3050000,2,8878403,5,5
+MHS0304,20,Akuntansi,Seng,Keramik,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Petani/nelayan,Buruh harian,SD,Ya,SNBT,350000,100000,4,1350344,2,1
+MHS0305,18,Manajemen,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Petani/nelayan,Buruh harian,SMA/SMK,Ya,SNBT,1450000,1150000,3,2797939,2,3
+MHS0306,18,Informatika,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Profesional,SD,Ya,SNBP,18500000,1400000,2,12943366,4,5
+MHS0307,22,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Pascasarjana,Tidak,SNBP,15900000,1850000,5,10359006,5,5
+MHS0308,20,Psikologi,Beton,Semen,Bambu,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SD,Ya,SNBT,1350000,500000,3,1418417,1,2
+MHS0309,20,Psikologi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,,SMP,Tidak,SNBT,6750000,2700000,2,3814835,4,5
+MHS0310,23,Sistem Informasi,Seng,Tanah,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,SNBP,17100000,1500000,3,10474169,3,5
+MHS0311,21,Ilmu Komunikasi,Beton,Semen,Bambu,Menumpang keluarga,PDAM,PLN 450 VA,Karyawan swasta,Karyawan swasta,Diploma,Tidak,SNBP,5550000,750000,5,5206197,3,3
+MHS0312,19,Teknik Sipil,Beton,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Karyawan swasta,Diploma,Tidak,SNBP,19900000,3300000,6,14320376,2,5
+MHS0313,21,Informatika,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Wiraswasta,Buruh harian,SD,Ya,SNBT,3850000,900000,3,2550199,3,3
+MHS0314,21,Akuntansi,Asbes,Keramik,Tembok,Menumpang keluarga,PDAM,PLN 450 VA,Buruh harian,Ibu rumah tangga,Pascasarjana,Tidak,SNBT,3500000,1200000,3,4300044,1,3
+MHS0315,18,Ilmu Komunikasi,Asbes,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Tidak,Mandiri,6050000,1400000,3,6149684,4,4
+MHS0316,23,Sistem Informasi,Seng,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Buruh harian,SMA/SMK,Ya,SNBT,18800000,2450000,2,13944458,3,4
+MHS0317,21,Sistem Informasi,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,7900000,5250000,1,7822861,4,5
+MHS0318,21,Informatika,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBP,13650000,1100000,1,5768751,5,5
+MHS0319,18,Teknik Industri,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBT,4800000,600000,6,2696770,5,4
+MHS0320,20,Informatika,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,34850000,3200000,2,20543011,4,5
+MHS0321,22,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Mandiri,10550000,1350000,3,5509284,5,5
+MHS0322,24,Psikologi,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Tidak,SNBT,11550000,1500000,2,8987865,2,5
+MHS0323,19,Psikologi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Karyawan swasta,Sarjana,Tidak,SNBT,4350000,2950000,1,4210118,5,5
+MHS0324,20,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Karyawan swasta,PNS/TNI/Polri,SD,Ya,SNBP,6100000,2300000,1,6974094,3,4
+MHS0325,21,Psikologi,Genteng,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,9100000,4050000,2,9759165,4,5
+MHS0326,20,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBP,6200000,2400000,2,6932899,3,5
+MHS0327,20,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Profesional,Diploma,Tidak,SNBP,6000000,1600000,4,3565380,4,5
+MHS0328,21,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,Sarjana,Tidak,Prestasi,7750000,6600000,2,11519950,4,5
+MHS0329,20,Teknik Sipil,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,8550000,3850000,2,10947348,4,5
+MHS0330,19,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Diploma,Tidak,Mandiri,2550000,550000,3,3175626,3,3
+MHS0331,20,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Ya,SNBP,8250000,1900000,3,9237073,4,4
+MHS0332,21,Akuntansi,Beton,Marmer,Tembok,Milik sendiri,,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Tidak,SNBT,14900000,1100000,1,13177944,5,5
+MHS0333,20,Psikologi,Asbes,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3500000,600000,4,4165528,1,2
+MHS0334,22,Akuntansi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Profesional,SMP,Tidak,SNBT,2750000,850000,2,2132333,3,4
+MHS0335,20,Teknik Industri,Beton,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,1750000,1300000,2,3280416,4,3
+MHS0336,21,Akuntansi,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,Prestasi,20750000,3100000,3,12364828,5,5
+MHS0337,19,Akuntansi,Beton,Semen,Bambu,Milik sendiri,PDAM,PLN 450 VA,PNS/TNI/Polri,Buruh harian,SMA/SMK,Ya,Mandiri,1700000,4300000,2,4710672,5,3
+MHS0338,22,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SD,Tidak,SNBT,11350000,7500000,4,11207545,2,5
+MHS0339,21,Ilmu Komunikasi,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Tidak tamat SD,Tidak,SNBT,3100000,1550000,5,4207270,2,3
+MHS0340,20,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Pascasarjana,Tidak,SNBP,15950000,5800000,2,10582113,5,5
+MHS0341,19,Teknik Sipil,Asbes,Tanah,Kayu,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,SNBT,2750000,350000,4,3479652,4,2
+MHS0342,23,Akuntansi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,1900000,6050000,1,4590090,3,4
+MHS0343,20,Akuntansi,Genteng,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,,5200000,3,5212906,4,5
+MHS0344,20,Manajemen,Seng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,SNBT,9950000,1350000,1,7696909,2,4
+MHS0345,19,Psikologi,Genteng,Semen,Bambu,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Mandiri,6450000,650000,2,3311544,1,4
+MHS0346,22,Ilmu Komunikasi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,8150000,3150000,3,8836531,5,5
+MHS0347,20,Sistem Informasi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,7400000,2800000,2,7514193,4,5
+MHS0348,18,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,,Diploma,Tidak,Mandiri,3650000,1700000,3,,4,4
+MHS0349,21,Akuntansi,Seng,Tanah,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMP,Tidak,SNBP,11700000,750000,4,6560100,4,4
+MHS0350,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,PNS/TNI/Polri,Sarjana,Tidak,Mandiri,9150000,8000000,1,6988698,3,5
+MHS0351,20,Ilmu Komunikasi,Asbes,Semen,Tembok,Rumah dinas,Sumur terlindungi,PLN 900 VA,Wiraswasta,Wiraswasta,SMP,Ya,Mandiri,4200000,500000,3,2149640,5,3
+MHS0352,21,Ilmu Komunikasi,Genteng,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,Diploma,Ya,SNBT,1100000,750000,3,2454235,3,3
+MHS0353,21,Informatika,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBP,4450000,600000,4,3757711,3,3
+MHS0354,22,Teknik Sipil,Asbes,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Profesional,Karyawan swasta,Diploma,Tidak,SNBT,5150000,5200000,6,6283717,4,5
+MHS0355,20,Informatika,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,2000000,750000,4,2824971,2,3
+MHS0356,21,Psikologi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,Mandiri,12200000,5750000,4,15667131,,5
+MHS0357,19,Akuntansi,Asbes,Semen,Kayu,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Buruh harian,SMA/SMK,Tidak,Mandiri,2650000,800000,4,2408004,3,2
+MHS0358,19,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 450 VA,Wiraswasta,PNS/TNI/Polri,SD,Tidak,SNBP,8300000,2100000,2,6886833,5,5
+MHS0359,21,Ilmu Komunikasi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Buruh harian,Sarjana,Tidak,SNBP,18400000,,3,14510190,4,5
+MHS0360,21,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,8750000,3550000,3,7296075,3,5
+MHS0361,23,Ilmu Komunikasi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SMP,Tidak,SNBP,2450000,1750000,1,3031255,5,4
+MHS0362,20,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,Mata air,PLN 450 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,5700000,1300000,3,5577931,4,4
+MHS0363,21,Teknik Sipil,Genteng,Keramik,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,SD,Tidak,SNBT,2850000,350000,3,2687969,2,2
+MHS0364,19,Psikologi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Sarjana,Tidak,SNBT,6800000,1450000,2,5965314,4,5
+MHS0365,21,Sistem Informasi,Beton,Semen,Kayu,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBP,25200000,2950000,1,,5,5
+MHS0366,18,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,5350000,2200000,3,3476149,3,4
+MHS0367,18,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,14100000,2150000,4,6480620,3,5
+MHS0368,21,Psikologi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Ya,Prestasi,5150000,1000000,5,5624160,2,4
+MHS0369,19,Informatika,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,900000,150000,3,1119841,4,2
+MHS0370,22,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Wiraswasta,Sarjana,Tidak,SNBT,9150000,3100000,1,6092448,4,5
+MHS0371,19,Manajemen,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Diploma,Tidak,SNBP,16300000,3700000,3,11035671,4,5
+MHS0372,22,Akuntansi,Beton,Semen,Tembok,,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,Mandiri,5900000,1650000,4,4246478,5,4
+MHS0373,22,Sistem Informasi,Beton,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Ya,SNBT,10300000,2450000,3,8000735,3,4
+MHS0374,19,Ilmu Komunikasi,Seng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,Mandiri,6400000,,1,,2,4
+MHS0375,20,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,4500000,3200000,1,6899293,3,4
+MHS0376,17,Akuntansi,Asbes,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,6700000,2600000,5,6007241,2,4
+MHS0377,21,Teknik Industri,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,Non-PLN,Tidak bekerja,Ibu rumah tangga,Tidak tamat SD,Ya,SNBT,1000000,600000,5,2067626,1,1
+MHS0378,22,Psikologi,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Wiraswasta,Sarjana,Ya,SNBT,3350000,1750000,3,4474817,1,3
+MHS0379,19,Sistem Informasi,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,Mandiri,6000000,1100000,3,4371963,3,3
+MHS0380,22,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,6000000,1100000,2,6146457,3,5
+MHS0381,20,Informatika,Seng,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,PNS/TNI/Polri,Buruh harian,Diploma,Tidak,SNBT,5300000,5700000,4,8478574,4,4
+MHS0382,21,Teknik Industri,Seng,Semen,Bambu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,,SMA/SMK,Tidak,SNBP,700000,850000,5,1541624,4,2
+MHS0383,21,Informatika,Asbes,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Petani/nelayan,Karyawan swasta,SMA/SMK,Tidak,SNBT,2650000,2600000,4,2279332,4,3
+MHS0384,21,Teknik Industri,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SD,Tidak,SNBP,,1650000,5,2634760,2,2
+MHS0385,22,Informatika,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Ya,SNBT,1050000,300000,2,1810201,4,1
+MHS0386,17,Akuntansi,Genteng,Tanah,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Tidak bekerja,Ibu rumah tangga,SMP,Tidak,SNBT,450000,200000,6,756116,2,1
+MHS0387,20,Teknik Sipil,Beton,Semen,Campuran,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Buruh harian,SMA/SMK,Tidak,Mandiri,12550000,2850000,1,9156873,5,5
+MHS0388,19,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,SNBT,5100000,7750000,2,10437341,5,5
+MHS0389,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Tidak bekerja,Wiraswasta,SMP,Tidak,SNBT,3800000,750000,2,2534798,3,4
+MHS0390,21,Informatika,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,Mandiri,13200000,1550000,4,9310306,,5
+MHS0391,23,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,Sarjana,Tidak,SNBP,13350000,2650000,3,10538517,5,5
+MHS0392,19,Ilmu Komunikasi,Seng,Semen,Tembok,Menumpang keluarga,Mata air,PLN di atas 1300 VA,Karyawan swasta,Profesional,Sarjana,Tidak,SNBP,2350000,3550000,3,3259033,5,4
+MHS0393,17,Psikologi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Ya,SNBT,3000000,4100000,2,5917559,1,4
+MHS0394,18,Manajemen,Seng,Semen,Kayu,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,Tidak tamat SD,Ya,SNBP,,200000,6,1012816,1,1
+MHS0395,21,Teknik Sipil,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,5200000,3550000,4,7137166,1,3
+MHS0396,21,Teknik Sipil,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,SNBT,6900000,2700000,3,8389779,5,5
+MHS0397,20,Sistem Informasi,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,SNBT,6100000,9550000,3,,5,5
+MHS0398,21,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,1850000,1300000,2,1951054,5,5
+MHS0399,21,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,,Sarjana,Tidak,Mandiri,19200000,3300000,2,19359857,5,5
+MHS0400,21,Psikologi,Genteng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,4200000,950000,4,2997831,3,3
+MHS0401,21,Teknik Sipil,Asbes,Semen,Tembok,Rumah dinas,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,6350000,850000,3,5836407,2,3
+MHS0402,21,Sistem Informasi,Beton,Marmer,Campuran,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,8050000,6400000,3,9119446,3,5
+MHS0403,18,Informatika,Genteng,Keramik,Tembok,Milik sendiri,PDAM,Non-PLN,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,8700000,9900000,2,6986092,4,5
+MHS0404,21,Teknik Industri,Asbes,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Ya,SNBP,2200000,1550000,3,1855339,5,3
+MHS0405,22,Teknik Industri,Genteng,Keramik,Kayu,Kontrak/sewa,,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,,1450000,5,2097771,3,3
+MHS0406,21,Informatika,Asbes,Marmer,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Ibu rumah tangga,Diploma,Ya,SNBT,13700000,6150000,3,11292155,3,4
+MHS0407,20,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Profesional,Karyawan swasta,SMA/SMK,Tidak,SNBT,3450000,2600000,3,4342582,3,4
+MHS0408,20,Sistem Informasi,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,PNS/TNI/Polri,Profesional,Pascasarjana,Tidak,SNBP,12450000,1250000,3,10889278,4,5
+MHS0409,22,Manajemen,Beton,Semen,Tembok,Milik sendiri,Mata air,PLN 1300 VA,Profesional,Ibu rumah tangga,Sarjana,Ya,Mandiri,4150000,450000,4,3114635,3,3
+MHS0410,22,Sistem Informasi,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,Tidak tamat SD,Ya,Mandiri,1500000,600000,4,2115466,2,2
+MHS0411,23,Sistem Informasi,Asbes,Tanah,Campuran,Kontrak/sewa,Sumur tidak terlindungi,PLN 450 VA,Buruh harian,Ibu rumah tangga,SMP,Tidak,Mandiri,450000,250000,4,1299149,1,1
+MHS0412,22,Informatika,Asbes,Keramik,Kayu,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,5150000,400000,2,3573446,2,3
+MHS0413,21,Informatika,Genteng,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,SNBT,900000,500000,4,1841408,3,2
+MHS0414,23,Teknik Sipil,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Buruh harian,SMA/SMK,Ya,SNBP,2400000,1600000,2,3196084,5,4
+MHS0415,20,Psikologi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Ya,SNBT,17200000,1850000,2,9333420,3,5
+MHS0416,21,Sistem Informasi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,Diploma,Ya,SNBP,6500000,1500000,6,7129904,3,3
+MHS0417,23,Teknik Industri,Genteng,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Petani/nelayan,PNS/TNI/Polri,SMP,Ya,SNBT,4300000,2850000,6,3755887,2,3
+MHS0418,18,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,Mata air,PLN 450 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,3150000,2900000,2,5065710,5,4
+MHS0419,22,Psikologi,Beton,Semen,Tembok,Milik sendiri,,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Pascasarjana,Tidak,SNBT,15750000,1300000,3,10725661,3,5
+MHS0420,20,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMP,Ya,SNBP,17650000,1050000,3,14101960,5,5
+MHS0421,18,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,Mata air,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,2800000,2000000,5,2703024,4,4
+MHS0422,19,Akuntansi,Genteng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Ya,Mandiri,4800000,650000,3,4952773,2,4
+MHS0423,20,Manajemen,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,1250000,1100000,1,1651483,3,3
+MHS0424,19,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,21200000,3200000,3,17800141,4,5
+MHS0425,19,Akuntansi,Genteng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Petani/nelayan,Wiraswasta,SMP,Ya,SNBT,800000,300000,1,1858288,4,1
+MHS0426,21,Akuntansi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,Non-PLN,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,12950000,2050000,3,11925084,5,5
+MHS0427,20,Ilmu Komunikasi,Seng,Semen,Bambu,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Tidak,Mandiri,1100000,1600000,2,3005444,1,3
+MHS0428,20,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,,Tidak,Mandiri,7050000,2100000,4,6733926,5,5
+MHS0429,21,Akuntansi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,16650000,4850000,2,8874104,5,5
+MHS0430,22,Informatika,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,1100000,1350000,6,2371208,1,3
+MHS0431,17,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Tidak bekerja,Karyawan swasta,SMA/SMK,Tidak,SNBP,25350000,2050000,3,21309431,5,5
+MHS0432,21,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,4700000,3600000,5,6649487,4,4
+MHS0433,20,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Diploma,Tidak,SNBT,26700000,4350000,3,19331712,5,4
+MHS0434,20,Informatika,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Ya,SNBT,11100000,5450000,4,11954533,4,5
+MHS0435,20,Ilmu Komunikasi,Genteng,Keramik,Kayu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Prestasi,3500000,800000,4,2135656,2,3
+MHS0436,20,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,7600000,4050000,2,6036586,5,5
+MHS0437,22,Psikologi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,11500000,3900000,1,8448453,5,5
+MHS0438,21,Akuntansi,Beton,Tanah,Kayu,Milik sendiri,Mata air,PLN 1300 VA,Buruh harian,Wiraswasta,SD,Tidak,Mandiri,2950000,1250000,3,3233006,2,3
+MHS0439,20,Psikologi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,6750000,8050000,4,10949528,5,4
+MHS0440,23,Manajemen,Beton,Tanah,Bambu,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,12600000,3750000,4,14103413,5,5
+MHS0441,19,Teknik Industri,Asbes,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,12450000,,3,15104545,3,5
+MHS0442,19,Ilmu Komunikasi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2150000,350000,5,1895996,2,3
+MHS0443,20,Sistem Informasi,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 450 VA,Wiraswasta,Ibu rumah tangga,,Tidak,SNBT,4100000,2700000,2,4629015,5,4
+MHS0444,19,Akuntansi,Seng,Tanah,Bambu,Milik sendiri,PDAM,PLN 450 VA,Tidak bekerja,Ibu rumah tangga,Tidak tamat SD,Tidak,SNBP,1150000,150000,5,1782685,2,1
+MHS0445,20,Sistem Informasi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,12700000,850000,4,8103201,5,5
+MHS0446,22,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Diploma,Tidak,SNBT,8800000,1600000,1,6905560,3,5
+MHS0447,21,Akuntansi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Ya,Mandiri,7000000,1450000,1,4148653,3,5
+MHS0448,22,Sistem Informasi,Genteng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,17650000,1100000,6,11962324,4,4
+MHS0449,19,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Buruh harian,Tidak tamat SD,Ya,SNBT,7500000,3800000,4,5587933,4,4
+MHS0450,22,Sistem Informasi,Seng,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,3400000,,4,,4,3
+MHS0451,20,Informatika,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,11100000,1850000,6,5159490,5,4
+MHS0452,23,Teknik Industri,Beton,Tanah,Bambu,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,1250000,750000,6,1557259,1,2
+MHS0453,22,Manajemen,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,,SMA/SMK,Tidak,SNBP,5450000,2050000,4,4395975,5,4
+MHS0454,20,Sistem Informasi,Asbes,Semen,Kayu,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,PNS/TNI/Polri,Sarjana,Tidak,SNBP,11100000,3900000,4,7991982,3,4
+MHS0455,20,Psikologi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 450 VA,Profesional,Buruh harian,Sarjana,Ya,SNBT,4550000,950000,3,3578656,5,4
+MHS0456,17,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2300000,400000,3,2576417,5,3
+MHS0457,20,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Tidak bekerja,Karyawan swasta,Diploma,Tidak,Mandiri,12750000,2500000,3,11183837,3,5
+MHS0458,21,Informatika,Seng,Keramik,Kayu,Milik sendiri,,PLN 450 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,2100000,800000,6,2054586,3,3
+MHS0459,20,Akuntansi,Genteng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Tidak bekerja,Ibu rumah tangga,SD,Tidak,SNBP,4250000,2350000,2,4572330,,4
+MHS0460,22,Ilmu Komunikasi,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Sarjana,Tidak,SNBT,4550000,1450000,5,5081557,3,5
+MHS0461,21,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Profesional,SMP,Tidak,Mandiri,3850000,4250000,2,6200729,1,3
+MHS0462,19,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,Non-PLN,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,2800000,1050000,3,3309789,3,3
+MHS0463,22,Informatika,Genteng,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Buruh harian,Profesional,,Ya,Prestasi,3150000,1000000,1,3348985,3,4
+MHS0464,19,Ilmu Komunikasi,Asbes,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 450 VA,Buruh harian,Buruh harian,SD,Ya,SNBP,1900000,,3,2189633,2,1
+MHS0465,19,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Ya,Mandiri,7350000,4900000,5,9886637,2,5
+MHS0466,20,Manajemen,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Ya,Mandiri,1500000,1000000,4,2982162,3,2
+MHS0467,23,Akuntansi,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SD,Ya,SNBT,1400000,,5,1406226,2,1
+MHS0468,21,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3000000,1250000,5,3142753,3,3
+MHS0469,20,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Diploma,Tidak,Mandiri,8500000,,1,8421952,5,5
+MHS0470,19,Teknik Sipil,Beton,Semen,Tembok,Rumah dinas,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Tidak,SNBT,10900000,8300000,2,9169720,4,4
+MHS0471,19,Psikologi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Ya,SNBP,2850000,3700000,3,4109800,2,4
+MHS0472,19,Psikologi,Asbes,Semen,Tembok,,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,1800000,900000,3,2446511,4,3
+MHS0473,19,Akuntansi,Genteng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Sarjana,Tidak,Mandiri,5800000,2750000,2,6146678,4,4
+MHS0474,21,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Tidak bekerja,PNS/TNI/Polri,Pascasarjana,Tidak,SNBT,9650000,6300000,4,9940249,3,5
+MHS0475,22,Informatika,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Ya,Mandiri,6850000,6300000,1,7330034,4,5
+MHS0476,20,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,,SMA/SMK,Tidak,SNBP,8850000,1150000,2,5867621,5,4
+MHS0477,23,Informatika,Beton,Semen,Campuran,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Pascasarjana,Ya,Prestasi,7650000,1400000,5,7340849,3,4
+MHS0478,18,Informatika,Beton,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,18350000,3650000,3,16033454,4,5
+MHS0479,22,Ilmu Komunikasi,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,Mandiri,12200000,2450000,2,8727512,5,5
+MHS0480,23,Psikologi,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Ibu rumah tangga,Tidak tamat SD,Tidak,Prestasi,4550000,1100000,1,3070669,2,3
+MHS0481,20,Teknik Industri,Asbes,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SD,Tidak,SNBT,6750000,1300000,3,3727529,3,4
+MHS0482,19,Sistem Informasi,Seng,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Tidak,SNBP,3350000,1450000,3,2652853,4,4
+MHS0483,21,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Profesional,PNS/TNI/Polri,Sarjana,Tidak,SNBT,14550000,2400000,4,9319472,5,5
+MHS0484,20,Informatika,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Karyawan swasta,Pascasarjana,Tidak,SNBT,8500000,3200000,2,10221153,3,5
+MHS0485,18,Sistem Informasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,8400000,3250000,2,4926590,5,5
+MHS0486,20,Manajemen,Beton,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,Buruh harian,SMP,Tidak,SNBT,3150000,1700000,5,4735610,1,3
+MHS0487,22,Ilmu Komunikasi,Genteng,Tanah,Kayu,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Buruh harian,Tidak tamat SD,Tidak,SNBP,1350000,500000,4,1371199,2,1
+MHS0488,20,Teknik Industri,Beton,Tanah,Kayu,Milik sendiri,Sumur tidak terlindungi,PLN 450 VA,Petani/nelayan,Ibu rumah tangga,SD,Ya,SNBT,1500000,500000,5,1301373,2,1
+MHS0489,19,Teknik Sipil,Genteng,Semen,Tembok,Menumpang keluarga,Mata air,PLN 1300 VA,Buruh harian,Buruh harian,SMA/SMK,Tidak,SNBT,3150000,350000,6,1998935,2,2
+MHS0490,19,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Profesional,Sarjana,Tidak,SNBP,9700000,2700000,1,5068838,2,5
+MHS0491,23,Ilmu Komunikasi,Seng,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN 450 VA,Karyawan swasta,Karyawan swasta,SMP,Ya,SNBT,1450000,1200000,4,2033600,2,3
+MHS0492,22,Informatika,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,Sarjana,Tidak,SNBT,5950000,1950000,3,7171856,3,5
+MHS0493,20,Ilmu Komunikasi,Seng,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,6600000,2800000,1,6525074,5,3
+MHS0494,20,Teknik Sipil,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,12750000,2050000,3,12853052,5,5
+MHS0495,22,Teknik Industri,Beton,Keramik,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBT,12400000,2150000,1,9495558,5,4
+MHS0496,18,Ilmu Komunikasi,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,30600000,4750000,2,,4,5
+MHS0497,22,Teknik Industri,Genteng,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,PNS/TNI/Polri,Karyawan swasta,Sarjana,Tidak,Mandiri,2400000,450000,5,2540378,3,3
+MHS0498,21,Sistem Informasi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3250000,2650000,2,3218892,5,4
+MHS0499,23,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Diploma,Tidak,SNBT,1600000,750000,3,2368642,2,3
+MHS0500,20,Manajemen,Genteng,Keramik,Bambu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Wiraswasta,SD,Ya,Mandiri,1550000,300000,1,1704852,2,2
+MHS0501,19,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,20300000,3200000,3,13541282,4,5
+MHS0502,23,Informatika,Beton,Marmer,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,5300000,3650000,3,4959046,2,5
+MHS0503,20,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,2750000,550000,2,3530963,2,4
+MHS0504,21,Akuntansi,Beton,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBP,11150000,1800000,3,7939073,5,5
+MHS0505,20,Ilmu Komunikasi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,PNS/TNI/Polri,,Tidak,SNBT,8700000,2100000,2,7305796,5,5
+MHS0506,21,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,PDAM,Non-PLN,PNS/TNI/Polri,Wiraswasta,Sarjana,Tidak,SNBT,11700000,3000000,3,10112912,4,5
+MHS0507,21,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,5250000,3650000,3,3771921,4,4
+MHS0508,21,Informatika,Seng,Semen,Kayu,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,Sarjana,Ya,SNBP,,300000,2,1892210,4,2
+MHS0509,22,Teknik Sipil,Seng,Semen,Tembok,Kontrak/sewa,Mata air,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMP,Ya,Mandiri,2000000,1100000,3,1846239,4,2
+MHS0510,21,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,Sarjana,Ya,SNBP,12300000,1350000,4,6320845,5,5
+MHS0511,22,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,23700000,6600000,3,23485895,,5
+MHS0512,22,Akuntansi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Profesional,Sarjana,Ya,SNBP,3750000,2950000,2,3360421,2,5
+MHS0513,20,Sistem Informasi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,2700000,3350000,2,5124260,4,4
+MHS0514,21,Informatika,Beton,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,Wiraswasta,SD,Ya,SNBT,2100000,800000,3,3018784,2,2
+MHS0515,18,Informatika,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,Mandiri,6550000,2250000,2,7038440,5,5
+MHS0516,21,Manajemen,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,Prestasi,4450000,1300000,2,3817814,3,4
+MHS0517,18,Akuntansi,Seng,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Buruh harian,Buruh harian,Sarjana,Ya,SNBT,1450000,550000,6,1584612,1,2
+MHS0518,19,Psikologi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SD,Tidak,SNBT,6400000,1800000,2,6631280,4,5
+MHS0519,19,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,3000000,2350000,5,2830459,4,4
+MHS0520,21,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SD,Tidak,SNBT,5850000,2500000,1,3897461,5,5
+MHS0521,21,Manajemen,Genteng,Marmer,Tembok,Rumah dinas,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Ya,SNBP,1050000,500000,2,1387453,3,2
+MHS0522,21,Teknik Industri,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,5550000,3250000,3,8148077,2,4
+MHS0523,22,Teknik Sipil,Asbes,Tanah,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,SMP,Tidak,SNBP,11050000,2850000,6,7328487,4,5
+MHS0524,20,Psikologi,Seng,Semen,Kayu,Kontrak/sewa,PDAM,PLN 450 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,1050000,300000,6,1983949,3,2
+MHS0525,21,Manajemen,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Karyawan swasta,Pascasarjana,Tidak,Prestasi,13050000,4100000,1,10612394,5,5
+MHS0526,20,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,8800000,1650000,5,6981656,5,5
+MHS0527,21,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,Mandiri,5600000,2150000,1,4316175,1,4
+MHS0528,21,Manajemen,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,16300000,2950000,4,11956552,,4
+MHS0529,19,Teknik Industri,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,Diploma,Ya,SNBT,3550000,1300000,4,2881893,5,3
+MHS0530,21,Psikologi,Seng,Tanah,Campuran,Menumpang keluarga,Sumur tidak terlindungi,PLN 450 VA,Tidak bekerja,Ibu rumah tangga,SMP,Ya,SNBP,900000,1100000,5,1753851,3,2
+MHS0531,21,Ilmu Komunikasi,Seng,Semen,Campuran,Menumpang keluarga,Mata air,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMP,Ya,SNBT,2150000,,5,1892115,2,1
+MHS0532,23,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,,Tidak,SNBT,7650000,2300000,2,7329474,5,5
+MHS0533,19,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,,Diploma,Ya,SNBT,3750000,1050000,6,2625275,3,4
+MHS0534,22,Sistem Informasi,Beton,Tanah,Kayu,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,1450000,1800000,3,2235066,2,3
+MHS0535,21,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Wiraswasta,Pascasarjana,Tidak,Mandiri,8350000,2550000,1,6343380,4,5
+MHS0536,21,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,4850000,2900000,5,6873729,5,5
+MHS0537,20,Sistem Informasi,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,SNBP,3300000,1800000,1,,5,4
+MHS0538,22,Informatika,Asbes,Semen,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Petani/nelayan,Karyawan swasta,SMA/SMK,Ya,Mandiri,1000000,600000,5,,2,2
+MHS0539,20,Sistem Informasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 450 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,SNBP,1250000,250000,5,1061105,1,1
+MHS0540,19,Akuntansi,Beton,Marmer,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,SMP,Tidak,Mandiri,,2800000,4,4635395,5,5
+MHS0541,20,Informatika,Seng,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,,SMA/SMK,Tidak,Mandiri,,1900000,3,4413286,5,4
+MHS0542,21,Teknik Sipil,Asbes,Tanah,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Buruh harian,SMP,Tidak,SNBT,12300000,750000,3,9234993,3,3
+MHS0543,20,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMP,Tidak,SNBT,6250000,2850000,5,4005607,4,5
+MHS0544,19,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,Non-PLN,Profesional,Karyawan swasta,Diploma,Tidak,SNBP,5950000,5100000,2,8092561,3,5
+MHS0545,22,Teknik Industri,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMP,Tidak,Prestasi,3700000,2500000,3,3710544,1,3
+MHS0546,20,Informatika,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,Mandiri,19900000,650000,2,10081188,3,4
+MHS0547,22,Teknik Industri,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Karyawan swasta,PNS/TNI/Polri,Tidak tamat SD,Tidak,SNBT,2750000,800000,4,2928764,3,3
+MHS0548,21,Psikologi,Beton,Tanah,Campuran,Milik sendiri,Mata air,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,15800000,2200000,2,11706765,4,5
+MHS0549,21,Psikologi,Seng,Keramik,Bambu,Menumpang keluarga,PDAM,PLN 900 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBP,4300000,950000,1,4177822,2,3
+MHS0550,19,Ilmu Komunikasi,Beton,Keramik,Kayu,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Wiraswasta,Diploma,Ya,Prestasi,5500000,2950000,4,5759653,3,3
+MHS0551,21,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Tidak bekerja,Profesional,SMA/SMK,Tidak,SNBT,11750000,850000,3,7908125,5,4
+MHS0552,22,Teknik Sipil,Beton,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Wiraswasta,SD,Tidak,Mandiri,3600000,3350000,2,6658923,4,4
+MHS0553,21,Psikologi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 450 VA,Buruh harian,Karyawan swasta,Sarjana,Tidak,SNBP,2500000,1250000,5,3000815,1,3
+MHS0554,21,Akuntansi,Genteng,Semen,Tembok,Kontrak/sewa,,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SD,Ya,SNBT,1900000,1100000,2,3247147,3,3
+MHS0555,22,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,20300000,12000000,1,21938906,5,5
+MHS0556,21,Teknik Industri,Genteng,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,Mandiri,7950000,2300000,2,5356425,5,5
+MHS0557,19,Teknik Sipil,Seng,Tanah,Campuran,Kontrak/sewa,Mata air,PLN 900 VA,Wiraswasta,Buruh harian,SMP,Tidak,Mandiri,850000,,6,1048110,2,2
+MHS0558,19,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Wiraswasta,SMA/SMK,Tidak,SNBP,7250000,7600000,2,8797694,4,5
+MHS0559,22,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Buruh harian,Sarjana,Ya,SNBP,10650000,1850000,3,11200928,4,4
+MHS0560,21,Teknik Sipil,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SD,Tidak,SNBP,9150000,2600000,1,4950027,2,4
+MHS0561,21,Teknik Industri,Asbes,Marmer,Tembok,Kontrak/sewa,Sumur terlindungi,Non-PLN,Petani/nelayan,Ibu rumah tangga,Diploma,Tidak,Mandiri,3400000,1300000,4,2942239,2,3
+MHS0562,20,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,3200000,1700000,4,3830867,5,4
+MHS0563,17,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Ya,SNBT,31550000,900000,2,21016256,3,5
+MHS0564,22,Teknik Sipil,Asbes,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,,4500000,4,5177457,2,4
+MHS0565,20,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Diploma,Ya,SNBT,19050000,5850000,5,12527825,5,5
+MHS0566,19,Psikologi,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,SNBT,3550000,850000,1,3881129,3,4
+MHS0567,19,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,6500000,3950000,2,8883565,3,4
+MHS0568,20,Psikologi,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN 900 VA,Buruh harian,Wiraswasta,Tidak tamat SD,Ya,Mandiri,900000,1900000,5,,2,3
+MHS0569,21,Teknik Sipil,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,9200000,5150000,3,8923334,5,5
+MHS0570,20,Teknik Sipil,Beton,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Profesional,Sarjana,Tidak,SNBT,13200000,2100000,1,6341967,3,4
+MHS0571,22,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Ya,SNBP,,1300000,3,5079082,4,4
+MHS0572,22,Psikologi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,Mandiri,3950000,3700000,3,6541361,3,5
+MHS0573,21,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,7300000,5400000,4,9608167,5,5
+MHS0574,21,Ilmu Komunikasi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN 900 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,SNBT,14250000,,3,7210478,4,4
+MHS0575,19,Teknik Industri,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,SNBP,4200000,5250000,4,7580732,4,4
+MHS0576,22,Sistem Informasi,Seng,Marmer,Bambu,Kontrak/sewa,Sumur tidak terlindungi,Non-PLN,Wiraswasta,PNS/TNI/Polri,SD,Ya,SNBT,900000,550000,4,1813267,4,1
+MHS0577,18,Ilmu Komunikasi,Genteng,Tanah,Kayu,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Ya,SNBT,900000,700000,2,1873594,4,2
+MHS0578,21,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,9100000,2000000,5,6791946,3,4
+MHS0579,20,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Wiraswasta,SD,Tidak,Mandiri,5100000,2350000,5,6305591,3,3
+MHS0580,22,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,11900000,3500000,3,7151447,4,5
+MHS0581,22,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Ya,SNBT,3700000,,4,3777622,3,4
+MHS0582,22,Akuntansi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SD,Tidak,SNBP,2400000,1800000,3,3862204,4,4
+MHS0583,21,Psikologi,Genteng,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2650000,1250000,1,2524095,5,4
+MHS0584,21,Sistem Informasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,19250000,6250000,2,19470385,5,5
+MHS0585,20,Teknik Sipil,Seng,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,1500000,700000,3,1832186,3,3
+MHS0586,21,Akuntansi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SD,Tidak,Mandiri,5250000,1300000,4,2853401,3,3
+MHS0587,19,Manajemen,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,SNBP,8650000,4900000,1,5438042,5,5
+MHS0588,21,Ilmu Komunikasi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Buruh harian,SMA/SMK,Ya,SNBT,3450000,750000,3,4315467,,3
+MHS0589,20,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,Prestasi,8250000,4200000,5,,4,5
+MHS0590,22,Sistem Informasi,Seng,Semen,Bambu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Tidak tamat SD,Ya,SNBP,,650000,5,2379697,2,2
+MHS0591,19,Akuntansi,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Tidak,SNBT,6250000,800000,3,5888708,5,4
+MHS0592,19,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,10850000,550000,3,4577832,2,4
+MHS0593,22,Sistem Informasi,Genteng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SD,Tidak,SNBT,,400000,6,5520847,2,2
+MHS0594,19,Sistem Informasi,Asbes,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,,SMA/SMK,Tidak,SNBP,14900000,5050000,2,9175038,1,5
+MHS0595,20,Teknik Sipil,Seng,Semen,Bambu,,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,SNBT,4650000,500000,4,3685233,3,3
+MHS0596,19,Manajemen,Genteng,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,850000,2050000,3,2204822,1,2
+MHS0597,20,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Profesional,SMP,Tidak,SNBT,10100000,4900000,2,7363133,5,5
+MHS0598,20,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMP,Tidak,SNBT,5500000,300000,3,5272629,4,3
+MHS0599,21,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Ya,SNBT,21300000,4000000,6,10590295,3,5
+MHS0600,22,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,4700000,3150000,2,6297711,4,5
+MHS0601,23,Psikologi,Genteng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Ibu rumah tangga,Sarjana,Tidak,SNBT,21100000,4000000,4,13313866,4,5
+MHS0602,23,Informatika,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Karyawan swasta,Diploma,Tidak,Mandiri,13650000,9400000,4,,5,5
+MHS0603,20,Akuntansi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,13700000,2400000,5,12815399,4,5
+MHS0604,22,Teknik Industri,Asbes,Semen,Tembok,Menumpang keluarga,,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Ya,SNBP,550000,1450000,4,1151141,2,3
+MHS0605,22,Ilmu Komunikasi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2400000,800000,2,2342158,4,4
+MHS0606,18,Psikologi,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,SNBP,19100000,4050000,1,17657953,5,5
+MHS0607,20,Manajemen,Seng,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,7900000,900000,1,4136383,2,4
+MHS0608,22,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Diploma,Tidak,SNBP,14300000,4400000,3,13002310,5,5
+MHS0609,19,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Buruh harian,SMP,Tidak,SNBT,3600000,1450000,5,3378731,5,5
+MHS0610,20,Informatika,Beton,Semen,Tembok,Menumpang keluarga,Mata air,Non-PLN,Profesional,PNS/TNI/Polri,Diploma,Tidak,SNBT,8150000,750000,4,6539447,3,4
+MHS0611,21,Sistem Informasi,Seng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2950000,2100000,3,3045654,5,3
+MHS0612,23,Sistem Informasi,Seng,Keramik,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,SNBT,4250000,,4,,4,2
+MHS0613,21,Teknik Sipil,Genteng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Wiraswasta,Profesional,SMP,Ya,Mandiri,450000,500000,5,770266,1,1
+MHS0614,20,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,17600000,,6,8022214,4,5
+MHS0615,20,Informatika,Asbes,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMP,Tidak,Mandiri,29850000,1750000,4,16485567,3,4
+MHS0616,21,Akuntansi,Asbes,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Profesional,Profesional,,Tidak,SNBT,5600000,2450000,6,5052910,4,4
+MHS0617,18,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,SNBT,3300000,1850000,3,4446611,4,4
+MHS0618,20,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,20450000,4200000,5,20457255,3,5
+MHS0619,20,Akuntansi,Seng,Keramik,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Tidak tamat SD,Ya,SNBT,1250000,250000,5,1512887,3,2
+MHS0620,21,Ilmu Komunikasi,Beton,Semen,Tembok,,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,5650000,2900000,2,6193434,3,5
+MHS0621,23,Psikologi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMP,Tidak,SNBT,6700000,6400000,1,10367047,4,5
+MHS0622,21,Psikologi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,21000000,7350000,5,14239244,5,5
+MHS0623,19,Teknik Industri,Seng,Semen,Tembok,Rumah dinas,PDAM,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,,Tidak,SNBT,7750000,450000,2,5696389,3,3
+MHS0624,21,Manajemen,Seng,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Ya,SNBP,8150000,1900000,5,5589831,2,4
+MHS0625,20,Akuntansi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,7000000,3000000,2,6725463,3,5
+MHS0626,21,Teknik Industri,Genteng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,2950000,1200000,1,2873912,3,3
+MHS0627,20,Teknik Sipil,Seng,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Petani/nelayan,Wiraswasta,Diploma,Ya,SNBT,2700000,1400000,2,2554189,1,3
+MHS0628,19,Manajemen,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMP,Ya,SNBT,1400000,1100000,4,2704625,2,4
+MHS0629,20,Teknik Sipil,Seng,Keramik,Kayu,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,1300000,300000,5,1923278,1,1
+MHS0630,20,Ilmu Komunikasi,Asbes,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Buruh harian,Pascasarjana,Tidak,SNBP,7550000,3850000,5,6297034,,5
+MHS0631,18,Informatika,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,3150000,2150000,2,4371835,3,4
+MHS0632,18,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 450 VA,Wiraswasta,Ibu rumah tangga,SMP,Ya,SNBP,4550000,900000,3,4491431,1,2
+MHS0633,22,Teknik Sipil,Beton,Marmer,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Profesional,SMA/SMK,Tidak,SNBP,17250000,3500000,1,15300823,5,5
+MHS0634,21,Informatika,Asbes,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 450 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3050000,650000,3,3720693,3,2
+MHS0635,18,Informatika,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Buruh harian,SD,Ya,SNBP,7700000,3200000,4,9834463,5,3
+MHS0636,20,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Wiraswasta,SMP,Ya,SNBP,3350000,1000000,4,3853480,2,3
+MHS0637,22,Teknik Sipil,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,11350000,1500000,3,11457162,,5
+MHS0638,20,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,Mandiri,16100000,1450000,2,11232848,4,5
+MHS0639,23,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,PNS/TNI/Polri,Sarjana,Tidak,Prestasi,7000000,2200000,4,5023466,4,5
+MHS0640,22,Psikologi,Seng,Semen,Kayu,Milik sendiri,PDAM,Non-PLN,Karyawan swasta,Karyawan swasta,SMA/SMK,Ya,SNBP,14800000,,3,14696579,4,5
+MHS0641,20,Manajemen,Seng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMP,Tidak,SNBP,1200000,550000,4,2062511,1,1
+MHS0642,22,Teknik Sipil,Seng,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Tidak bekerja,Karyawan swasta,SMP,Ya,SNBT,4700000,1000000,3,4302401,2,2
+MHS0643,20,Manajemen,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,8850000,2150000,2,6605886,4,4
+MHS0644,22,Sistem Informasi,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,2500000,3900000,6,5432306,5,3
+MHS0645,20,Teknik Industri,Beton,Semen,Kayu,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,Wiraswasta,SMP,Tidak,Mandiri,,3900000,3,7041385,4,4
+MHS0646,20,Teknik Industri,Beton,Keramik,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Ya,SNBP,5750000,900000,3,3056970,2,3
+MHS0647,19,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,21900000,750000,2,8440370,2,4
+MHS0648,21,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Pascasarjana,Tidak,SNBT,23900000,950000,2,19629759,5,5
+MHS0649,22,Informatika,Genteng,Semen,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Tidak bekerja,Buruh harian,SMP,Ya,Prestasi,550000,300000,4,1116441,2,1
+MHS0650,17,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,9000000,2300000,2,10189200,5,5
+MHS0651,22,Akuntansi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Profesional,SMA/SMK,Tidak,SNBT,5750000,2500000,3,4362737,4,5
+MHS0652,18,Ilmu Komunikasi,Seng,Semen,Bambu,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,750000,,2,2073372,3,1
+MHS0653,21,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Pascasarjana,Tidak,SNBT,11100000,2550000,1,5347013,5,5
+MHS0654,20,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Profesional,Sarjana,Tidak,Mandiri,3450000,2850000,1,5999794,5,5
+MHS0655,21,Teknik Industri,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Tidak tamat SD,Tidak,SNBP,4550000,4100000,1,6407562,5,5
+MHS0656,21,Ilmu Komunikasi,Asbes,Keramik,Tembok,Milik sendiri,Mata air,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,10150000,3000000,2,6032820,4,5
+MHS0657,22,Akuntansi,Asbes,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,SNBT,4900000,3400000,2,6948281,3,4
+MHS0658,19,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Ya,SNBP,13750000,1550000,6,10524875,3,5
+MHS0659,22,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,Non-PLN,Karyawan swasta,Ibu rumah tangga,Pascasarjana,Tidak,Mandiri,3750000,4800000,2,7325504,2,4
+MHS0660,22,Manajemen,Asbes,Semen,Tembok,Milik sendiri,Mata air,PLN 450 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3550000,450000,3,1877373,1,3
+MHS0661,21,Ilmu Komunikasi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBP,,2850000,1,8236005,3,5
+MHS0662,19,Informatika,Seng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Buruh harian,Profesional,SMA/SMK,Tidak,SNBP,2150000,1000000,5,2533734,,3
+MHS0663,19,Sistem Informasi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,13650000,2250000,1,8661951,,5
+MHS0664,20,Teknik Sipil,Asbes,Keramik,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Karyawan swasta,PNS/TNI/Polri,SD,Ya,SNBP,5750000,700000,4,5697858,4,3
+MHS0665,20,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,8700000,8250000,1,9770963,4,5
+MHS0666,19,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBP,3250000,3100000,4,5856091,5,4
+MHS0667,20,Manajemen,Genteng,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBT,4750000,8650000,3,6692874,4,5
+MHS0668,20,Teknik Industri,Beton,Semen,Bambu,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,1250000,400000,3,1406018,3,2
+MHS0669,19,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,4250000,1800000,2,5363420,4,5
+MHS0670,23,Teknik Industri,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Diploma,Tidak,SNBT,8500000,4950000,3,11137068,5,5
+MHS0671,21,Akuntansi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,12500000,2050000,2,9242626,4,5
+MHS0672,19,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,,PLN 1300 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Tidak,Mandiri,7400000,5200000,3,4865886,,4
+MHS0673,18,Teknik Sipil,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN 900 VA,Buruh harian,Profesional,SMA/SMK,Tidak,SNBP,13500000,1750000,5,8738655,4,5
+MHS0674,19,Psikologi,Genteng,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMP,Tidak,Mandiri,5700000,3650000,5,5030202,5,5
+MHS0675,21,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBT,5550000,8850000,2,10382003,,5
+MHS0676,21,Teknik Industri,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Profesional,PNS/TNI/Polri,Diploma,Tidak,SNBP,3600000,2350000,2,3372505,4,4
+MHS0677,21,Sistem Informasi,Beton,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Wiraswasta,SD,Ya,SNBT,950000,2550000,3,2673359,4,2
+MHS0678,21,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,,Tidak,SNBP,4900000,2350000,4,3191607,3,5
+MHS0679,19,Manajemen,Asbes,Semen,Tembok,Rumah dinas,PDAM,PLN 900 VA,Karyawan swasta,,SMA/SMK,Ya,SNBT,500000,650000,6,,2,2
+MHS0680,22,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,3400000,2950000,3,3168580,5,5
+MHS0681,20,Psikologi,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,,Tidak,Prestasi,3000000,2050000,3,4670796,3,4
+MHS0682,20,Ilmu Komunikasi,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,SNBP,9500000,800000,1,5636072,3,4
+MHS0683,22,Informatika,Seng,Semen,Kayu,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,PNS/TNI/Polri,Profesional,Diploma,Tidak,SNBT,5350000,1350000,6,6030378,3,4
+MHS0684,22,Akuntansi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,,Ya,SNBT,2100000,1100000,6,1594618,4,3
+MHS0685,19,Informatika,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,,Ya,SNBT,4150000,1700000,4,,4,4
+MHS0686,21,Psikologi,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBT,14450000,1300000,2,11916683,5,5
+MHS0687,20,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMP,Tidak,SNBP,10200000,2100000,4,8856264,5,5
+MHS0688,19,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,Tidak tamat SD,Tidak,Mandiri,4700000,1550000,2,4074323,1,4
+MHS0689,20,Psikologi,Asbes,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3450000,2050000,3,4051843,2,4
+MHS0690,21,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMP,Tidak,SNBT,,8300000,1,11619120,2,5
+MHS0691,19,Manajemen,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMP,Tidak,Mandiri,11400000,2600000,2,11898495,3,5
+MHS0692,20,Manajemen,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,SNBT,,2000000,3,3563109,3,3
+MHS0693,20,Manajemen,Genteng,Tanah,Kayu,Rumah dinas,PDAM,PLN 450 VA,Karyawan swasta,Buruh harian,SMP,Tidak,SNBP,2300000,3900000,6,4604713,2,2
+MHS0694,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Ya,SNBT,8800000,4600000,3,6732746,4,5
+MHS0695,19,Psikologi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,12800000,8350000,4,13480074,5,5
+MHS0696,21,Ilmu Komunikasi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,SNBT,11850000,3800000,4,10374681,4,4
+MHS0697,19,Sistem Informasi,Asbes,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,5950000,950000,2,4431499,4,3
+MHS0698,21,Sistem Informasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,3200000,450000,4,2560176,4,3
+MHS0699,21,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMP,Tidak,Mandiri,5300000,2300000,4,4748030,1,4
+MHS0700,19,Manajemen,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Karyawan swasta,SMA/SMK,Tidak,SNBP,2900000,650000,3,3132125,1,3
+MHS0701,20,Sistem Informasi,Seng,Tanah,Bambu,Menumpang keluarga,PDAM,Non-PLN,Petani/nelayan,Ibu rumah tangga,SD,Tidak,Mandiri,1900000,1550000,6,2006952,3,3
+MHS0702,19,Teknik Industri,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,7600000,1450000,3,4042722,,4
+MHS0703,19,Akuntansi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBP,6850000,2350000,5,5243811,4,4
+MHS0704,22,Informatika,Asbes,Semen,Campuran,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Prestasi,,2450000,4,3937773,3,4
+MHS0705,20,Psikologi,Asbes,Tanah,Bambu,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,2200000,600000,2,2287885,3,2
+MHS0706,21,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,8850000,3950000,2,10718059,3,5
+MHS0707,22,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,,SD,Tidak,SNBP,1100000,300000,5,1976780,4,2
+MHS0708,18,Informatika,Asbes,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,20700000,4000000,4,11783399,4,5
+MHS0709,19,Teknik Sipil,Genteng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,8200000,5100000,2,7484652,5,5
+MHS0710,22,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,11950000,,5,7839169,4,5
+MHS0711,21,Psikologi,Seng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBT,5800000,3900000,3,5992541,5,5
+MHS0712,20,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMP,Tidak,SNBT,15300000,1300000,6,12023510,5,5
+MHS0713,21,Psikologi,Beton,Keramik,Kayu,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SD,Tidak,Mandiri,5000000,1900000,2,6176666,2,4
+MHS0714,20,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMP,Ya,SNBT,3150000,1900000,5,3416777,5,4
+MHS0715,20,Psikologi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Pascasarjana,Tidak,SNBP,8000000,2100000,2,8583824,5,5
+MHS0716,20,Teknik Industri,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN 450 VA,Profesional,Buruh harian,Sarjana,Tidak,SNBP,3050000,650000,4,2635920,1,3
+MHS0717,21,Ilmu Komunikasi,Asbes,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Petani/nelayan,,SMA/SMK,Tidak,SNBT,2900000,1000000,3,2326737,4,4
+MHS0718,21,Informatika,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,SNBP,3200000,1350000,2,3830439,5,4
+MHS0719,21,Ilmu Komunikasi,Seng,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,5950000,2050000,4,4916724,3,4
+MHS0720,20,Informatika,Seng,Semen,Tembok,Rumah dinas,Sumur tidak terlindungi,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SMP,Tidak,SNBT,,,4,2352073,1,2
+MHS0721,21,Teknik Sipil,Seng,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,4250000,1600000,4,3963809,5,5
+MHS0722,20,Psikologi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SD,Tidak,SNBT,9850000,2800000,3,10745693,5,5
+MHS0723,21,Akuntansi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBT,5400000,6400000,6,6210590,5,5
+MHS0724,19,Sistem Informasi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,SNBT,7200000,1500000,4,7098788,5,4
+MHS0725,23,Informatika,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Ya,SNBP,6300000,1000000,3,4122335,,5
+MHS0726,18,Psikologi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,Non-PLN,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,8200000,4200000,4,6585660,5,5
+MHS0727,24,Informatika,Asbes,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Karyawan swasta,,Diploma,Tidak,SNBP,4050000,5150000,2,5438516,4,4
+MHS0728,20,Psikologi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Petani/nelayan,Wiraswasta,SMP,Tidak,SNBP,11400000,10150000,2,15391393,3,5
+MHS0729,20,Manajemen,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMP,Tidak,SNBT,3050000,1250000,2,2173460,5,4
+MHS0730,20,Informatika,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,13100000,2050000,3,6562750,1,4
+MHS0731,19,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Tidak bekerja,Wiraswasta,SMA/SMK,Tidak,SNBT,1450000,2250000,2,1727000,4,4
+MHS0732,21,Manajemen,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,13700000,13250000,5,17958331,1,5
+MHS0733,18,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,,Sarjana,Ya,SNBP,3650000,,2,5568063,5,4
+MHS0734,18,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,Diploma,Tidak,SNBP,3400000,500000,2,1804679,2,4
+MHS0735,18,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,6250000,1200000,1,5147985,3,5
+MHS0736,19,Sistem Informasi,Genteng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Buruh harian,SMA/SMK,Tidak,SNBP,1850000,500000,4,1955959,4,3
+MHS0737,21,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBP,,2300000,1,10600145,,5
+MHS0738,18,Teknik Sipil,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,,Sarjana,Tidak,SNBT,7500000,3200000,3,9087374,4,5
+MHS0739,19,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,7100000,1950000,4,4790783,1,4
+MHS0740,23,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,5000000,2900000,5,5295185,3,5
+MHS0741,23,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,Diploma,Tidak,SNBT,5950000,3100000,3,6010094,4,5
+MHS0742,21,Informatika,Genteng,Tanah,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Profesional,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,4450000,2600000,1,5639690,5,4
+MHS0743,20,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,8100000,2950000,4,9910606,4,5
+MHS0744,20,Ilmu Komunikasi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,3800000,300000,3,4254867,4,3
+MHS0745,23,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,19950000,2300000,3,12493614,4,5
+MHS0746,19,Manajemen,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,,700000,2,2595783,3,3
+MHS0747,20,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Pascasarjana,Tidak,SNBT,9800000,4100000,2,7725007,4,5
+MHS0748,22,Psikologi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SD,Tidak,Mandiri,2750000,3150000,3,3547816,5,5
+MHS0749,20,Informatika,Asbes,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Ya,SNBP,700000,300000,5,1433857,1,1
+MHS0750,20,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Tidak,SNBT,3200000,1350000,2,3368092,5,4
+MHS0751,22,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,,Tidak,SNBT,2750000,,4,4023214,4,4
+MHS0752,22,Teknik Sipil,Seng,Marmer,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,SD,Tidak,SNBP,4250000,1500000,4,3398464,2,3
+MHS0753,21,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,10550000,4000000,2,6259351,5,5
+MHS0754,19,Psikologi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Ya,SNBP,4200000,900000,3,4885731,4,4
+MHS0755,20,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,Mandiri,,,4,11598313,5,5
+MHS0756,19,Teknik Sipil,Beton,Semen,Tembok,Rumah dinas,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,,Tidak,Mandiri,26250000,2550000,5,14801827,5,5
+MHS0757,23,Sistem Informasi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Ya,SNBP,13600000,2050000,4,11609748,3,5
+MHS0758,18,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,Sarjana,Tidak,Mandiri,23100000,2750000,2,15598487,5,5
+MHS0759,24,Sistem Informasi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Ya,SNBP,2300000,2100000,2,,2,4
+MHS0760,21,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,Prestasi,13000000,2500000,4,11674598,5,5
+MHS0761,19,Teknik Sipil,Genteng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMP,Ya,SNBP,,700000,3,1418392,5,3
+MHS0762,21,Ilmu Komunikasi,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Ya,SNBT,1600000,1350000,2,3389392,4,4
+MHS0763,21,Ilmu Komunikasi,Asbes,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Buruh harian,Wiraswasta,SD,Tidak,SNBT,12400000,3750000,4,8830711,2,4
+MHS0764,20,Manajemen,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 450 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,SNBT,750000,850000,4,1660686,2,2
+MHS0765,20,Teknik Industri,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SD,Ya,Mandiri,1550000,250000,2,1688864,2,2
+MHS0766,21,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SMP,Ya,SNBT,5900000,2150000,4,7279393,4,5
+MHS0767,22,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,Mata air,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMP,Tidak,SNBT,11450000,1250000,2,8056008,4,4
+MHS0768,21,Informatika,Beton,Tanah,Bambu,Milik sendiri,Mata air,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,2600000,950000,4,,4,3
+MHS0769,19,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,53950000,6300000,2,35000000,5,5
+MHS0770,20,Informatika,Asbes,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMP,Tidak,SNBP,10250000,,3,8628680,4,4
+MHS0771,23,Manajemen,Beton,Tanah,Bambu,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Ya,SNBT,8450000,5500000,2,6054990,5,5
+MHS0772,19,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SD,Ya,Mandiri,600000,300000,5,1298071,3,2
+MHS0773,20,Manajemen,Seng,Tanah,Kayu,Menumpang keluarga,PDAM,PLN 450 VA,Karyawan swasta,Buruh harian,Pascasarjana,Ya,SNBP,4600000,1150000,3,4477149,2,3
+MHS0774,22,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,15100000,6300000,1,10433773,5,5
+MHS0775,19,Akuntansi,Asbes,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 450 VA,Buruh harian,Buruh harian,SMA/SMK,Tidak,Mandiri,450000,250000,5,994965,3,1
+MHS0776,21,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,36800000,1450000,6,27885978,5,4
+MHS0777,22,Manajemen,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Buruh harian,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,3100000,800000,2,3111396,4,3
+MHS0778,22,Informatika,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Tidak bekerja,Profesional,Sarjana,Tidak,SNBT,6350000,2650000,4,5774251,,5
+MHS0779,19,Informatika,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SD,Tidak,SNBP,7950000,5050000,1,5202669,4,5
+MHS0780,20,Teknik Sipil,Beton,Marmer,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMP,Ya,SNBT,11050000,500000,2,9343416,5,4
+MHS0781,21,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,33600000,1900000,5,20981817,5,5
+MHS0782,22,Teknik Industri,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,Tidak tamat SD,Tidak,SNBP,2350000,1000000,3,3134815,3,4
+MHS0783,20,Manajemen,Beton,Tanah,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Tidak,Mandiri,16500000,1400000,4,10174346,4,4
+MHS0784,20,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBT,12850000,1750000,2,11353083,4,5
+MHS0785,20,Informatika,Seng,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 450 VA,Wiraswasta,PNS/TNI/Polri,,Tidak,SNBT,38650000,5800000,5,15999417,1,4
+MHS0786,21,Teknik Sipil,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Karyawan swasta,Sarjana,Tidak,Mandiri,11550000,2500000,2,6264419,3,5
+MHS0787,20,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBP,8100000,1550000,1,5417275,2,5
+MHS0788,22,Psikologi,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,17500000,2950000,3,8913807,3,5
+MHS0789,20,Teknik Industri,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,SNBT,7350000,3200000,1,4618200,4,5
+MHS0790,22,Manajemen,Genteng,Keramik,Kayu,Menumpang keluarga,PDAM,PLN 450 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,SNBT,1300000,2300000,4,3237627,4,3
+MHS0791,20,Psikologi,Genteng,Tanah,Kayu,Menumpang keluarga,PDAM,PLN 450 VA,Petani/nelayan,Buruh harian,Diploma,Ya,SNBT,4850000,400000,4,2730428,2,3
+MHS0792,20,Ilmu Komunikasi,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,4300000,1450000,4,3800408,3,4
+MHS0793,21,Psikologi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Buruh harian,SMA/SMK,Tidak,Prestasi,3450000,950000,3,4066016,5,4
+MHS0794,20,Ilmu Komunikasi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,Mandiri,13950000,1700000,3,10741662,2,4
+MHS0795,20,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,Pascasarjana,Tidak,Prestasi,7550000,8000000,2,5991476,4,5
+MHS0796,19,Manajemen,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Buruh harian,SMA/SMK,Ya,SNBT,5350000,600000,2,4559315,2,3
+MHS0797,22,Sistem Informasi,Beton,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SD,Tidak,Mandiri,4150000,2400000,2,4421846,5,5
+MHS0798,18,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Tidak bekerja,Wiraswasta,Sarjana,Tidak,Mandiri,21450000,2400000,4,15558514,2,4
+MHS0799,21,Sistem Informasi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Ya,Prestasi,22750000,2050000,1,12676823,5,5
+MHS0800,19,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,5850000,2650000,2,5196006,3,5
+MHS0801,21,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBP,5150000,,4,7130294,3,4
+MHS0802,19,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,1200000,350000,3,2079076,2,2
+MHS0803,19,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Profesional,Wiraswasta,SMA/SMK,Tidak,SNBP,5400000,,4,5233540,4,5
+MHS0804,19,Manajemen,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Petani/nelayan,Wiraswasta,Sarjana,Tidak,SNBT,3350000,1900000,4,2934770,4,4
+MHS0805,22,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,,Tidak,Prestasi,11500000,2500000,2,12191339,4,5
+MHS0806,19,Manajemen,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,15550000,2550000,3,15763445,5,5
+MHS0807,19,Manajemen,Seng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,900000,950000,5,2130195,2,3
+MHS0808,21,Akuntansi,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Diploma,Tidak,Mandiri,8450000,2550000,2,8898121,3,5
+MHS0809,21,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Ya,SNBP,12600000,4700000,1,9251543,5,5
+MHS0810,20,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,9650000,3300000,2,6098858,4,4
+MHS0811,23,Manajemen,Seng,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,Tidak tamat SD,Ya,SNBT,8150000,300000,4,4259740,5,3
+MHS0812,19,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,19750000,1750000,4,18244051,5,5
+MHS0813,22,Ilmu Komunikasi,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,PNS/TNI/Polri,Sarjana,Tidak,SNBP,10600000,5250000,2,10950913,,5
+MHS0814,21,Akuntansi,Seng,Keramik,Tembok,,Sumur tidak terlindungi,Non-PLN,Buruh harian,Karyawan swasta,SMP,Ya,SNBT,2850000,2300000,6,4733844,3,2
+MHS0815,19,Informatika,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Ya,SNBT,5450000,950000,2,2960356,4,4
+MHS0816,21,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,4250000,3350000,5,3162835,5,5
+MHS0817,22,Manajemen,Asbes,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Ya,SNBP,5650000,2750000,4,6998856,4,4
+MHS0818,21,Manajemen,Seng,Keramik,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,PNS/TNI/Polri,Wiraswasta,Tidak tamat SD,Tidak,Mandiri,2350000,600000,4,1694274,2,3
+MHS0819,20,Sistem Informasi,Genteng,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Petani/nelayan,Buruh harian,Sarjana,Tidak,SNBP,9950000,600000,5,6155336,1,3
+MHS0820,19,Informatika,Asbes,Tanah,Tembok,Rumah dinas,Sumur terlindungi,PLN 450 VA,Tidak bekerja,Wiraswasta,SMA/SMK,Tidak,SNBT,4900000,450000,6,4007495,1,3
+MHS0821,21,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,Tidak tamat SD,Tidak,Mandiri,1650000,300000,2,1856922,1,2
+MHS0822,19,Psikologi,Asbes,Keramik,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Ya,SNBP,1850000,300000,5,2302882,2,1
+MHS0823,20,Teknik Industri,Beton,Tanah,Tembok,,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,SNBP,22350000,7050000,1,13352566,5,5
+MHS0824,21,Teknik Industri,Seng,Tanah,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Pascasarjana,Ya,Prestasi,19350000,1700000,1,12944886,4,5
+MHS0825,19,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,Diploma,Tidak,Prestasi,4750000,1400000,4,5230436,3,5
+MHS0826,22,Teknik Industri,Seng,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,5300000,2800000,3,5715950,3,4
+MHS0827,21,Informatika,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,Non-PLN,Petani/nelayan,Profesional,SMA/SMK,Tidak,SNBT,5900000,950000,2,4169990,5,3
+MHS0828,22,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,8200000,2450000,3,5313163,2,5
+MHS0829,19,Teknik Industri,Beton,Keramik,Kayu,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Petani/nelayan,Buruh harian,SD,Tidak,SNBT,3000000,550000,3,3716446,2,2
+MHS0830,19,Teknik Industri,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Profesional,Pascasarjana,Ya,SNBT,2550000,950000,1,2736168,4,4
+MHS0831,21,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Tidak tamat SD,Tidak,SNBT,18100000,3400000,1,16425093,3,5
+MHS0832,22,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Diploma,Tidak,Mandiri,4050000,2250000,3,4201532,3,4
+MHS0833,21,Manajemen,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Buruh harian,SMA/SMK,Tidak,SNBT,5800000,3200000,3,6777604,2,5
+MHS0834,18,Ilmu Komunikasi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Profesional,Sarjana,Ya,SNBT,15000000,3200000,1,7834556,3,5
+MHS0835,21,Manajemen,Genteng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Wiraswasta,SMP,Tidak,SNBT,7650000,1650000,5,8310016,4,4
+MHS0836,21,Manajemen,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,Pascasarjana,Tidak,Prestasi,1750000,400000,3,1954977,1,2
+MHS0837,20,Informatika,Genteng,Semen,Kayu,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,6250000,1100000,2,5047732,4,3
+MHS0838,20,Psikologi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Wiraswasta,Profesional,SMA/SMK,Ya,Mandiri,6500000,1550000,3,7344495,4,4
+MHS0839,20,Teknik Sipil,Beton,Tanah,Bambu,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Ya,Mandiri,4550000,1200000,6,3521971,4,4
+MHS0840,20,Sistem Informasi,Seng,Semen,Tembok,,Sumur tidak terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,Sarjana,Ya,Mandiri,12900000,5850000,1,13593989,3,5
+MHS0841,20,Sistem Informasi,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,Non-PLN,Profesional,Ibu rumah tangga,SMP,Tidak,Mandiri,950000,650000,4,1274068,1,1
+MHS0842,21,Psikologi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,7800000,2050000,4,5645733,2,5
+MHS0843,22,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,,8350000,4,16639500,5,5
+MHS0844,21,Sistem Informasi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,7000000,3100000,6,5909206,4,5
+MHS0845,19,Manajemen,Genteng,Tanah,Tembok,Menumpang keluarga,Mata air,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,5250000,1700000,2,3988471,,4
+MHS0846,23,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,8700000,5400000,2,7826264,4,5
+MHS0847,23,Informatika,Beton,Semen,Tembok,,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,Mandiri,9900000,3050000,3,6717964,5,5
+MHS0848,21,Psikologi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Buruh harian,Buruh harian,SMA/SMK,Ya,SNBT,6400000,1100000,2,6842111,2,3
+MHS0849,22,Teknik Industri,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,Diploma,Tidak,Mandiri,2050000,1300000,3,3545078,5,3
+MHS0850,20,Informatika,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,46500000,12000000,3,30189738,2,5
+MHS0851,21,Teknik Industri,Asbes,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Karyawan swasta,Sarjana,Tidak,SNBP,16300000,2650000,1,12497869,3,5
+MHS0852,20,Ilmu Komunikasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Ya,Mandiri,2350000,750000,2,1757489,2,3
+MHS0853,19,Psikologi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMP,Tidak,SNBP,20150000,1350000,2,14089450,5,5
+MHS0854,20,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Buruh harian,SMP,Ya,SNBT,3000000,1650000,4,2849834,2,4
+MHS0855,19,Psikologi,Asbes,Marmer,Tembok,Kontrak/sewa,Sumur terlindungi,Non-PLN,Karyawan swasta,Profesional,SMA/SMK,Ya,Mandiri,3050000,450000,3,2390970,3,3
+MHS0856,21,Teknik Industri,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Prestasi,5700000,3500000,3,5321146,5,4
+MHS0857,22,Sistem Informasi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,SNBP,6200000,3550000,3,7906397,2,4
+MHS0858,20,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,SNBT,13700000,1650000,4,12380060,3,4
+MHS0859,22,Sistem Informasi,Genteng,Semen,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,,Tidak,SNBP,3250000,700000,5,3960433,4,2
+MHS0860,22,Informatika,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,10250000,2200000,2,6645222,5,5
+MHS0861,23,Teknik Industri,Asbes,Keramik,Tembok,Rumah dinas,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,4150000,11400000,3,7686327,3,4
+MHS0862,22,Psikologi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Karyawan swasta,SMA/SMK,Tidak,SNBT,8050000,2400000,3,6031995,4,5
+MHS0863,23,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,6350000,4050000,4,6782105,3,4
+MHS0864,19,Ilmu Komunikasi,Beton,Tanah,Tembok,,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Diploma,Tidak,SNBT,20300000,5700000,2,18189707,5,5
+MHS0865,20,Manajemen,Genteng,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,1050000,700000,3,1272792,2,3
+MHS0866,19,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Tidak,Mandiri,6350000,5300000,3,8409913,4,5
+MHS0867,21,Sistem Informasi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Ya,SNBT,6600000,1850000,2,5861961,5,4
+MHS0868,22,Manajemen,Seng,Semen,Bambu,Milik sendiri,Mata air,PLN 1300 VA,Tidak bekerja,Ibu rumah tangga,SD,Ya,SNBT,3200000,900000,3,3296400,2,2
+MHS0869,20,Manajemen,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Karyawan swasta,Sarjana,Tidak,Mandiri,10500000,3950000,2,,4,5
+MHS0870,20,Psikologi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Pascasarjana,Tidak,Mandiri,6900000,4950000,3,9960772,5,4
+MHS0871,18,Ilmu Komunikasi,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,SNBT,5500000,4850000,3,7327664,4,4
+MHS0872,21,Psikologi,Beton,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Profesional,SMA/SMK,Tidak,SNBT,,3450000,4,2394735,4,4
+MHS0873,18,Informatika,Beton,Semen,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,,2700000,2,11452619,2,5
+MHS0874,20,Informatika,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Ya,SNBP,6000000,1700000,1,7230439,4,4
+MHS0875,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBT,19750000,21750000,3,15680504,5,5
+MHS0876,21,Informatika,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,11150000,2300000,4,,5,5
+MHS0877,17,Manajemen,Seng,Semen,Campuran,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,SNBT,3450000,1050000,6,3865789,5,3
+MHS0878,19,Sistem Informasi,Beton,Semen,Bambu,Kontrak/sewa,PDAM,PLN 1300 VA,Profesional,Ibu rumah tangga,Tidak tamat SD,Tidak,SNBT,2300000,250000,5,2332063,2,2
+MHS0879,19,Psikologi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 450 VA,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,Mandiri,7100000,4700000,4,6002141,2,4
+MHS0880,22,Teknik Sipil,Asbes,Tanah,Kayu,Milik sendiri,Sumur terlindungi,PLN 450 VA,Profesional,Buruh harian,SMP,Tidak,SNBT,,7800000,1,7828170,4,4
+MHS0881,21,Ilmu Komunikasi,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,6850000,850000,5,6508457,3,4
+MHS0882,24,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Ya,SNBT,5500000,3750000,3,3691802,5,5
+MHS0883,23,Informatika,Asbes,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Profesional,,Sarjana,Tidak,Mandiri,7250000,3250000,2,6198660,5,4
+MHS0884,21,Teknik Sipil,Beton,Semen,Tembok,Rumah dinas,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBP,6250000,4750000,3,5617407,3,5
+MHS0885,19,Informatika,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SD,Tidak,Mandiri,17250000,1350000,3,14549885,4,4
+MHS0886,19,Teknik Sipil,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Karyawan swasta,Karyawan swasta,SD,Tidak,SNBT,2350000,2200000,1,2539070,1,3
+MHS0887,21,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Tidak bekerja,Karyawan swasta,SMA/SMK,Tidak,Mandiri,2550000,1900000,1,3702916,2,4
+MHS0888,20,Sistem Informasi,Beton,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Karyawan swasta,Pascasarjana,Tidak,SNBP,17250000,1500000,3,15598199,5,4
+MHS0889,22,Akuntansi,Asbes,Tanah,Kayu,Milik sendiri,PDAM,PLN 450 VA,Buruh harian,Ibu rumah tangga,Sarjana,Ya,Prestasi,4450000,1100000,4,2645830,4,3
+MHS0890,17,Informatika,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SD,Ya,Mandiri,900000,800000,4,2251839,5,2
+MHS0891,22,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,5100000,2350000,3,4356008,4,4
+MHS0892,22,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SD,Ya,SNBP,9100000,4650000,2,5795884,3,5
+MHS0893,23,Informatika,Beton,Keramik,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,8800000,2750000,4,,4,4
+MHS0894,21,Psikologi,Genteng,Keramik,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,Buruh harian,Wiraswasta,Tidak tamat SD,Tidak,Mandiri,1050000,200000,4,1418944,1,1
+MHS0895,21,Ilmu Komunikasi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,,Ya,SNBT,4100000,400000,2,2156459,3,3
+MHS0896,17,Akuntansi,Beton,Keramik,Campuran,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,700000,800000,3,1545615,1,1
+MHS0897,23,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,22900000,6950000,1,15248080,4,5
+MHS0898,21,Akuntansi,Asbes,Keramik,Kayu,Milik sendiri,Sumur tidak terlindungi,PLN 450 VA,Tidak bekerja,Ibu rumah tangga,SMP,Ya,Mandiri,1050000,150000,5,1623196,2,1
+MHS0899,23,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,7700000,1950000,3,8048400,3,5
+MHS0900,22,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,4450000,4000000,5,7213828,5,5
+MHS0901,21,Informatika,Genteng,Marmer,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,,Pascasarjana,Tidak,Mandiri,13900000,1200000,3,6945630,3,4
+MHS0902,18,Informatika,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Karyawan swasta,Pascasarjana,Tidak,SNBP,2450000,650000,4,3229630,3,4
+MHS0903,20,Sistem Informasi,Beton,Semen,Kayu,Kontrak/sewa,PDAM,Non-PLN,Karyawan swasta,Ibu rumah tangga,Sarjana,Ya,SNBP,1800000,1900000,3,3212821,4,2
+MHS0904,20,Psikologi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 450 VA,Wiraswasta,Buruh harian,SMA/SMK,Tidak,SNBT,2750000,1100000,2,3343108,4,4
+MHS0905,19,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,Non-PLN,Karyawan swasta,Profesional,SMP,Tidak,SNBT,2600000,400000,4,2416719,3,3
+MHS0906,19,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,,SMP,Tidak,Mandiri,13050000,4650000,2,9113616,4,5
+MHS0907,21,Sistem Informasi,Seng,Keramik,Kayu,Kontrak/sewa,PDAM,PLN 450 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,Prestasi,2700000,300000,4,3145682,2,2
+MHS0908,21,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,9050000,,3,6197833,3,4
+MHS0909,20,Manajemen,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,,Tidak,SNBT,7850000,2650000,1,9437149,5,5
+MHS0910,20,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMP,Ya,SNBT,12500000,6050000,1,8546498,2,5
+MHS0911,22,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBP,5450000,2350000,1,4328940,3,5
+MHS0912,21,Sistem Informasi,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Diploma,Tidak,SNBT,10200000,2300000,2,9380415,3,5
+MHS0913,19,Informatika,Beton,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,5350000,1850000,2,3811977,2,5
+MHS0914,18,Ilmu Komunikasi,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,PNS/TNI/Polri,SMP,Tidak,SNBT,3750000,4350000,4,3350371,3,3
+MHS0915,18,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,13200000,2550000,4,9399824,4,5
+MHS0916,20,Manajemen,Genteng,Marmer,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SD,Tidak,SNBP,1850000,1600000,5,2679748,4,3
+MHS0917,18,Psikologi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Diploma,Tidak,Mandiri,8100000,2000000,1,5819439,5,5
+MHS0918,20,Akuntansi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,,Pascasarjana,Tidak,Mandiri,3450000,1950000,3,2462059,5,5
+MHS0919,20,Teknik Sipil,Genteng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,SD,Tidak,SNBT,5600000,3400000,3,4537151,,4
+MHS0920,20,Teknik Sipil,Asbes,Tanah,Campuran,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,Prestasi,12450000,,5,11762619,5,5
+MHS0921,25,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,3050000,2450000,2,4353324,4,4
+MHS0922,20,Akuntansi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Diploma,Tidak,SNBP,6200000,2400000,1,6924437,2,5
+MHS0923,18,Ilmu Komunikasi,Seng,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,5100000,3300000,2,7655139,4,4
+MHS0924,22,Manajemen,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBT,7050000,1650000,2,7982061,3,4
+MHS0925,22,Akuntansi,Seng,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,16400000,3400000,4,13437433,4,5
+MHS0926,22,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Ya,SNBP,4600000,1100000,4,5109018,5,4
+MHS0927,21,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Ya,SNBP,1100000,900000,3,2166792,1,2
+MHS0928,20,Ilmu Komunikasi,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Ya,SNBT,6300000,850000,4,5908595,3,4
+MHS0929,20,Sistem Informasi,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,3700000,1650000,6,4523000,3,3
+MHS0930,19,Akuntansi,Beton,Marmer,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,5100000,5850000,3,,5,5
+MHS0931,21,Teknik Sipil,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Ya,SNBT,8150000,2100000,2,4740458,2,5
+MHS0932,23,Teknik Industri,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,SD,Ya,Mandiri,,1350000,5,3918597,5,3
+MHS0933,20,Informatika,Asbes,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Buruh harian,Buruh harian,SMP,Ya,SNBT,23700000,2950000,3,10107345,5,4
+MHS0934,19,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Profesional,Sarjana,Tidak,SNBT,6250000,3800000,2,4635891,5,5
+MHS0935,20,Teknik Sipil,Asbes,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Wiraswasta,Ibu rumah tangga,SD,Ya,Mandiri,850000,200000,3,1108477,1,1
+MHS0936,21,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Pascasarjana,Tidak,SNBP,11550000,1400000,5,8977346,5,5
+MHS0937,21,Informatika,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 450 VA,Buruh harian,Wiraswasta,Tidak tamat SD,Tidak,Prestasi,9300000,750000,3,7982385,2,3
+MHS0938,22,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,SNBT,3050000,2200000,2,2641098,3,4
+MHS0939,21,Teknik Sipil,Asbes,Tanah,Tembok,,PDAM,PLN di atas 1300 VA,Tidak bekerja,Karyawan swasta,SMA/SMK,Tidak,Mandiri,14450000,2950000,6,8221040,5,5
+MHS0940,23,Informatika,Beton,Keramik,Tembok,Kontrak/sewa,Mata air,PLN di atas 1300 VA,Profesional,Wiraswasta,SMP,Tidak,SNBT,4500000,,4,5728134,5,4
+MHS0941,18,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2350000,3350000,3,3081981,2,4
+MHS0942,19,Akuntansi,Genteng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Pascasarjana,Ya,Mandiri,36600000,1300000,2,23558890,5,5
+MHS0943,20,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,PNS/TNI/Polri,Buruh harian,SMP,Ya,SNBP,2450000,300000,3,2087055,4,3
+MHS0944,20,Sistem Informasi,Genteng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Buruh harian,SMA/SMK,Tidak,SNBT,1750000,1450000,3,2513699,4,3
+MHS0945,20,Ilmu Komunikasi,Beton,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SD,Tidak,Mandiri,3550000,800000,2,3324368,4,4
+MHS0946,20,Manajemen,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Buruh harian,SMA/SMK,Tidak,SNBP,4050000,2250000,6,5814293,5,4
+MHS0947,20,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Tidak bekerja,Wiraswasta,SD,Tidak,Mandiri,6650000,5850000,2,8414596,2,5
+MHS0948,20,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Pascasarjana,Ya,SNBT,12850000,5200000,2,8002313,4,5
+MHS0949,22,Akuntansi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,PNS/TNI/Polri,Wiraswasta,Diploma,Tidak,SNBT,4900000,3400000,3,5679557,3,4
+MHS0950,20,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Tidak bekerja,Karyawan swasta,SMP,Tidak,SNBT,3100000,1600000,4,2786195,3,5
+MHS0951,21,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 450 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBP,3550000,4150000,3,,4,5
+MHS0952,19,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBT,5400000,,6,8219032,3,5
+MHS0953,19,Akuntansi,Seng,Semen,Kayu,Kontrak/sewa,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Ya,SNBP,500000,200000,2,1346142,2,1
+MHS0954,17,Psikologi,Asbes,Semen,Bambu,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,2600000,1450000,2,2842625,3,2
+MHS0955,21,Informatika,Genteng,Semen,Campuran,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Profesional,Karyawan swasta,Tidak tamat SD,Tidak,SNBP,2150000,950000,2,3257239,3,3
+MHS0956,20,Sistem Informasi,Genteng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,,Ya,SNBP,10550000,1050000,5,6993553,3,4
+MHS0957,21,Psikologi,Beton,Tanah,Tembok,Milik sendiri,Mata air,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Ya,SNBT,10000000,700000,4,9617586,2,3
+MHS0958,18,Teknik Industri,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,4900000,1250000,3,5435526,2,3
+MHS0959,23,Ilmu Komunikasi,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMP,Tidak,Mandiri,5450000,,2,4581209,3,4
+MHS0960,21,Teknik Industri,Beton,Semen,Bambu,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,12650000,22750000,2,14966040,,5
+MHS0961,20,Teknik Sipil,Beton,Tanah,Tembok,Rumah dinas,Sumur terlindungi,Non-PLN,Petani/nelayan,Ibu rumah tangga,Sarjana,Tidak,SNBP,5900000,1450000,5,5629907,1,3
+MHS0962,20,Ilmu Komunikasi,Genteng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SMP,Ya,Mandiri,1750000,550000,6,2508520,4,2
+MHS0963,20,Sistem Informasi,Asbes,Tanah,Kayu,Menumpang keluarga,PDAM,PLN 900 VA,Karyawan swasta,Profesional,,Ya,SNBP,2050000,1600000,5,,1,3
+MHS0964,19,Teknik Sipil,Asbes,Tanah,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,5300000,1600000,3,5374993,1,4
+MHS0965,21,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Diploma,Ya,SNBP,2950000,4550000,2,5847277,5,5
+MHS0966,20,Akuntansi,Seng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,SMP,Tidak,Mandiri,4000000,1000000,4,3062718,,4
+MHS0967,21,Manajemen,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,Diploma,Tidak,Mandiri,5100000,900000,3,2795338,4,5
+MHS0968,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Profesional,Karyawan swasta,Sarjana,Tidak,SNBT,14850000,4450000,2,9907498,1,5
+MHS0969,22,Psikologi,Beton,Semen,Tembok,,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,3450000,1600000,1,4790433,2,4
+MHS0970,19,Ilmu Komunikasi,Beton,Keramik,Tembok,,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,5550000,5450000,1,7776968,5,5
+MHS0971,20,Teknik Sipil,Asbes,Semen,Campuran,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,10650000,1150000,4,6749245,3,4
+MHS0972,17,Informatika,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,23450000,12000000,2,28691534,2,5
+MHS0973,19,Informatika,Beton,Semen,Kayu,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Prestasi,4000000,2900000,3,4601937,4,4
+MHS0974,23,Manajemen,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,Non-PLN,Karyawan swasta,,SMA/SMK,Tidak,Prestasi,10600000,2200000,2,8028395,2,5
+MHS0975,20,Informatika,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,8600000,2100000,3,5683615,4,5
+MHS0976,22,Informatika,Asbes,Keramik,Tembok,Rumah dinas,PDAM,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Ya,SNBT,2200000,1200000,5,2483154,2,3
+MHS0977,23,Teknik Sipil,Genteng,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,Non-PLN,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,6100000,4900000,1,9150918,4,4
+MHS0978,19,Psikologi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,7300000,4800000,2,5621835,3,5
+MHS0979,21,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,8100000,,4,5081796,4,5
+MHS0980,22,Akuntansi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBT,5300000,,4,5657156,2,4
+MHS0981,19,Manajemen,Beton,Keramik,Kayu,Milik sendiri,PDAM,PLN 1300 VA,Profesional,Karyawan swasta,SMP,Tidak,Mandiri,1750000,1650000,3,3453660,4,3
+MHS0982,20,Teknik Sipil,Asbes,Semen,Tembok,,PDAM,Non-PLN,Karyawan swasta,Wiraswasta,Sarjana,Tidak,Mandiri,6550000,1950000,2,6461977,4,4
+MHS0983,21,Psikologi,Beton,Semen,Tembok,Rumah dinas,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,3150000,6800000,2,4827271,5,5
+MHS0984,21,Akuntansi,Asbes,Keramik,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,,SMA/SMK,Ya,Mandiri,7900000,800000,6,3550395,2,3
+MHS0985,20,Manajemen,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Wiraswasta,Wiraswasta,SD,Tidak,SNBT,4100000,2750000,5,3939152,,4
+MHS0986,21,Psikologi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,Prestasi,4000000,1350000,1,2598584,5,4
+MHS0987,20,Teknik Industri,Seng,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,PNS/TNI/Polri,SMA/SMK,Tidak,SNBP,1850000,1200000,5,3145604,5,4
+MHS0988,19,Informatika,Seng,Keramik,Tembok,Milik sendiri,PDAM,PLN 450 VA,Petani/nelayan,Profesional,SMP,Ya,Mandiri,2450000,400000,2,2828925,1,2
+MHS0989,20,Psikologi,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,9050000,2700000,2,10489697,2,4
+MHS0990,20,Sistem Informasi,Beton,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Profesional,SMA/SMK,Tidak,SNBT,,3500000,4,7892640,5,5
+MHS0991,19,Teknik Sipil,Beton,Semen,Tembok,Menumpang keluarga,,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,9000000,1150000,4,8797670,4,5
+MHS0992,21,Teknik Sipil,Beton,Tanah,Bambu,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,Mandiri,6150000,3050000,2,6305499,2,5
+MHS0993,22,Informatika,Genteng,Keramik,Tembok,Milik sendiri,PDAM,PLN 450 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBT,2700000,,5,3660174,3,3
+MHS0994,19,Teknik Industri,Seng,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Tidak,SNBT,5300000,1200000,5,5946768,2,3
+MHS0995,20,Informatika,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMP,Tidak,Mandiri,11250000,4000000,3,,5,5
+MHS0996,22,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Buruh harian,Diploma,Tidak,SNBT,6750000,1500000,5,4693655,4,4
+MHS0997,21,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,4000000,450000,3,2195868,4,3
+MHS0998,20,Sistem Informasi,Genteng,Marmer,Tembok,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Wiraswasta,SMP,Tidak,SNBP,2350000,100000,4,2525706,2,2
+MHS0999,20,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,5000000,5800000,2,4621750,1,5
+MHS1000,22,Teknik Industri,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Profesional,PNS/TNI/Polri,SMA/SMK,Tidak,Mandiri,3750000,1650000,4,2990474,,4
+MHS1001,23,Sistem Informasi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,3550000,2950000,5,3340066,3,4
+MHS1002,21,Manajemen,Asbes,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Buruh harian,Buruh harian,SMA/SMK,Tidak,SNBT,800000,350000,5,1177675,3,1
+MHS1003,21,Sistem Informasi,Asbes,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Tidak bekerja,PNS/TNI/Polri,SD,Ya,Mandiri,1300000,550000,5,1977863,1,1
+MHS1004,20,Ilmu Komunikasi,Genteng,Keramik,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Diploma,Tidak,SNBT,350000,650000,5,1591315,1,1
+MHS1005,22,Psikologi,Beton,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,6200000,1650000,3,6642823,5,5
+MHS1006,21,Psikologi,Asbes,Keramik,Tembok,Milik sendiri,Mata air,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,Tidak tamat SD,Tidak,Mandiri,1500000,300000,3,1652610,1,2
+MHS1007,21,Manajemen,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMP,Tidak,SNBT,10150000,1100000,4,5722354,4,4
+MHS1008,21,Sistem Informasi,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,2650000,2950000,2,2551296,5,4
+MHS1009,22,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,17100000,6000000,4,18984794,5,5
+MHS1010,20,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,,Pascasarjana,Ya,SNBP,4400000,1300000,4,4698833,3,5
+MHS1011,19,Psikologi,Asbes,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBP,,2650000,4,7230470,3,5
+MHS1012,21,Psikologi,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Tidak tamat SD,Tidak,Mandiri,8000000,1450000,1,8352820,5,4
+MHS1013,20,Ilmu Komunikasi,Beton,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Profesional,Profesional,SMA/SMK,Ya,SNBT,6400000,2050000,3,4107925,3,5
+MHS1014,22,Akuntansi,Seng,Tanah,Bambu,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Karyawan swasta,Ibu rumah tangga,Diploma,Ya,SNBT,1100000,150000,3,1660153,2,1
+MHS1015,21,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,Mandiri,3950000,2650000,2,5557471,4,5
+MHS1016,19,Psikologi,Beton,Semen,Tembok,Menumpang keluarga,Mata air,PLN 900 VA,Petani/nelayan,,SD,Tidak,SNBT,3750000,750000,4,3335572,2,2
+MHS1017,21,Teknik Industri,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Sarjana,Tidak,Mandiri,17150000,4850000,3,17866961,3,5
+MHS1018,20,Psikologi,Asbes,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,1900000,700000,6,2904949,1,2
+MHS1019,20,Informatika,Beton,Marmer,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,16700000,1750000,3,14950206,5,5
+MHS1020,20,Akuntansi,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,14550000,4600000,2,14803219,4,5
+MHS1021,19,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Tidak,SNBT,12650000,6000000,1,10035784,5,5
+MHS1022,24,Ilmu Komunikasi,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,5750000,2200000,2,4350784,5,4
+MHS1023,19,Ilmu Komunikasi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,13500000,2350000,1,9781021,5,5
+MHS1024,22,Akuntansi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Tidak bekerja,Karyawan swasta,SMA/SMK,Tidak,SNBP,19550000,4500000,1,15360469,3,5
+MHS1025,22,Teknik Industri,Asbes,Semen,Kayu,Milik sendiri,PDAM,PLN 450 VA,Buruh harian,Ibu rumah tangga,SD,Tidak,SNBP,4000000,800000,3,3945379,4,3
+MHS1026,21,Psikologi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,5700000,2550000,4,6437185,3,4
+MHS1027,21,Manajemen,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Pascasarjana,Tidak,SNBT,5700000,3250000,2,4301166,2,5
+MHS1028,20,Psikologi,Beton,Semen,Kayu,Kontrak/sewa,Mata air,Non-PLN,Buruh harian,Ibu rumah tangga,Tidak tamat SD,Ya,SNBT,,700000,2,2853378,2,2
+MHS1029,23,Psikologi,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,PNS/TNI/Polri,Karyawan swasta,SD,Tidak,SNBP,13250000,2000000,2,10616247,4,4
+MHS1030,18,Ilmu Komunikasi,Seng,Tanah,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Buruh harian,SMP,Tidak,Mandiri,3250000,400000,3,3047544,2,2
+MHS1031,21,Teknik Sipil,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Wiraswasta,Profesional,,Tidak,Mandiri,4150000,7700000,5,9887016,5,5
+MHS1032,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Ya,Mandiri,11500000,5700000,3,11019581,4,5
+MHS1033,21,Akuntansi,Seng,Semen,Kayu,Kontrak/sewa,Mata air,PLN 900 VA,Tidak bekerja,Ibu rumah tangga,SMP,Ya,SNBP,600000,450000,4,1234434,1,1
+MHS1034,20,Sistem Informasi,Beton,Marmer,Kayu,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,6450000,5800000,2,6797689,4,4
+MHS1035,20,Sistem Informasi,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Karyawan swasta,,SMP,Tidak,Mandiri,900000,250000,3,1124363,2,2
+MHS1036,21,Teknik Industri,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Pascasarjana,Tidak,SNBP,9700000,900000,3,6029107,3,4
+MHS1037,18,Teknik Industri,Beton,Keramik,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Ya,SNBT,10000000,4050000,3,8397331,4,5
+MHS1038,19,Teknik Industri,Seng,Keramik,Campuran,Milik sendiri,Sumur terlindungi,PLN 450 VA,Petani/nelayan,Ibu rumah tangga,SMP,Tidak,Mandiri,2350000,1800000,3,2573293,4,3
+MHS1039,22,Sistem Informasi,Seng,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,6400000,1800000,4,5811405,2,4
+MHS1040,21,Teknik Industri,Beton,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Ibu rumah tangga,SMP,Tidak,SNBT,4800000,650000,4,3464234,4,4
+MHS1041,22,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Prestasi,12500000,5600000,2,11958989,5,5
+MHS1042,18,Informatika,Seng,Semen,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBT,4100000,1700000,2,3604107,5,3
+MHS1043,19,Teknik Industri,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,Ibu rumah tangga,SMA/SMK,Ya,SNBT,3200000,350000,1,2125104,3,4
+MHS1044,22,Psikologi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Tidak,SNBP,13800000,2050000,3,7399219,3,5
+MHS1045,22,Akuntansi,Asbes,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Pascasarjana,Tidak,Mandiri,7400000,8700000,2,6693048,5,5
+MHS1046,20,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Wiraswasta,SMP,Ya,SNBP,31350000,8950000,4,30926295,4,5
+MHS1047,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,19300000,1600000,2,17082082,4,5
+MHS1048,22,Teknik Sipil,Beton,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,1950000,2400000,5,4229737,3,3
+MHS1049,21,Psikologi,Seng,Semen,Bambu,Milik sendiri,Mata air,PLN 1300 VA,Tidak bekerja,Profesional,SD,Tidak,SNBT,2300000,1500000,3,1859728,1,3
+MHS1050,22,Teknik Industri,Genteng,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,Prestasi,8650000,10600000,6,15880887,5,5
+MHS1051,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2300000,1950000,2,2024697,2,4
+MHS1052,20,Sistem Informasi,Seng,Tanah,Kayu,Kontrak/sewa,Mata air,PLN 1300 VA,Tidak bekerja,Ibu rumah tangga,SMA/SMK,Ya,SNBT,6200000,1650000,4,6893949,5,4
+MHS1053,20,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Sarjana,Ya,SNBP,8800000,850000,1,6849345,4,5
+MHS1054,20,Ilmu Komunikasi,Beton,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,11750000,2750000,1,12584379,5,5
+MHS1055,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,37400000,2400000,3,22188541,3,5
+MHS1056,18,Psikologi,Seng,Tanah,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,SNBT,450000,250000,5,847377,2,1
+MHS1057,20,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SD,Tidak,Mandiri,3250000,7500000,4,4921092,5,4
+MHS1058,21,Teknik Sipil,Asbes,Keramik,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 450 VA,Petani/nelayan,PNS/TNI/Polri,,Ya,SNBP,1350000,250000,3,1855525,4,2
+MHS1059,23,Ilmu Komunikasi,Seng,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Karyawan swasta,SMP,Tidak,SNBP,7450000,7050000,3,5684277,5,5
+MHS1060,20,Akuntansi,Seng,Semen,Bambu,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Tidak bekerja,Ibu rumah tangga,SD,Tidak,Mandiri,,1800000,3,1678830,2,2
+MHS1061,22,Sistem Informasi,Seng,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBP,4700000,650000,4,3691740,3,3
+MHS1062,21,Informatika,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 450 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,4300000,3600000,1,7385541,5,4
+MHS1063,22,Sistem Informasi,Beton,Semen,Tembok,,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,4750000,700000,2,3978861,3,4
+MHS1064,20,Teknik Industri,Beton,Semen,Tembok,Kontrak/sewa,PDAM,Non-PLN,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,22300000,1150000,4,20192684,5,5
+MHS1065,22,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,8500000,2250000,1,6882778,4,5
+MHS1066,20,Teknik Industri,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,,SMP,Tidak,SNBP,11100000,2600000,2,10222064,5,5
+MHS1067,18,Informatika,Asbes,Keramik,Kayu,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Buruh harian,PNS/TNI/Polri,,Tidak,SNBT,1300000,1200000,5,2979148,4,2
+MHS1068,21,Akuntansi,Seng,Keramik,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Buruh harian,Wiraswasta,SD,Ya,SNBT,1300000,,1,2091690,3,1
+MHS1069,21,Manajemen,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Karyawan swasta,Pascasarjana,Tidak,Mandiri,4650000,5050000,1,7183854,5,5
+MHS1070,20,Ilmu Komunikasi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,SNBT,11700000,800000,3,6484333,4,5
+MHS1071,21,Sistem Informasi,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 450 VA,Wiraswasta,Buruh harian,Tidak tamat SD,Tidak,SNBT,3350000,750000,2,2068798,3,2
+MHS1072,20,Teknik Sipil,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Karyawan swasta,PNS/TNI/Polri,SMP,Tidak,SNBP,6250000,1450000,3,7233368,2,4
+MHS1073,18,Teknik Sipil,Seng,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,5050000,1200000,2,5180876,3,4
+MHS1074,20,Psikologi,Genteng,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Buruh harian,Profesional,SD,Tidak,Mandiri,300000,500000,3,879352,1,1
+MHS1075,18,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,6950000,7150000,3,,4,5
+MHS1076,20,Informatika,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,7950000,3050000,4,8232832,2,4
+MHS1077,23,Teknik Industri,Asbes,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,3600000,5300000,3,4258727,5,4
+MHS1078,20,Akuntansi,Seng,Tanah,Tembok,,Sumur terlindungi,PLN 1300 VA,Buruh harian,,SMA/SMK,Tidak,SNBP,2700000,600000,3,3622207,4,3
+MHS1079,22,Sistem Informasi,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Diploma,Tidak,SNBT,29600000,5650000,2,13154383,3,5
+MHS1080,20,Informatika,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Petani/nelayan,Karyawan swasta,Sarjana,Tidak,SNBT,4200000,3800000,1,7421410,5,5
+MHS1081,19,Teknik Sipil,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,13750000,2750000,3,8004470,5,5
+MHS1082,20,Sistem Informasi,Asbes,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SD,Tidak,SNBP,4750000,1700000,4,4952540,2,3
+MHS1083,19,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Wiraswasta,Sarjana,Tidak,SNBT,6250000,1950000,4,,4,5
+MHS1084,21,Teknik Sipil,Asbes,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,Diploma,Tidak,Mandiri,7650000,6500000,2,9734436,5,5
+MHS1085,20,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Buruh harian,SMA/SMK,Tidak,SNBT,5750000,3300000,3,4109385,5,5
+MHS1086,18,Informatika,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,PNS/TNI/Polri,SD,Tidak,Mandiri,4750000,7900000,1,9014024,5,5
+MHS1087,20,Informatika,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMP,Tidak,SNBP,1900000,750000,3,1479418,3,4
+MHS1088,22,Sistem Informasi,Asbes,Keramik,Tembok,Rumah dinas,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,SNBT,3750000,500000,3,4040004,2,3
+MHS1089,21,Informatika,Asbes,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,4650000,1950000,2,3701527,3,5
+MHS1090,21,Teknik Industri,Seng,Keramik,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Profesional,SMP,Ya,Mandiri,2600000,,5,1850958,4,3
+MHS1091,19,Informatika,Genteng,Semen,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,1550000,400000,6,1798249,1,1
+MHS1092,20,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBP,8100000,3450000,3,7546904,3,4
+MHS1093,21,Teknik Sipil,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Diploma,Tidak,Mandiri,6250000,2050000,3,5489404,5,4
+MHS1094,21,Teknik Industri,Genteng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Ya,SNBP,6550000,850000,3,4813252,3,4
+MHS1095,23,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN 900 VA,Profesional,Wiraswasta,SMP,Tidak,SNBT,9800000,2850000,1,5080776,4,5
+MHS1096,19,Ilmu Komunikasi,Asbes,Keramik,Tembok,,PDAM,PLN 1300 VA,Karyawan swasta,Buruh harian,Pascasarjana,Tidak,Mandiri,3900000,3050000,1,3831956,1,4
+MHS1097,20,Manajemen,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,SMP,Tidak,SNBT,7100000,750000,6,5508455,4,4
+MHS1098,19,Psikologi,Seng,Keramik,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,2000000,2250000,2,2763687,3,4
+MHS1099,26,Teknik Sipil,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,Mandiri,30900000,3200000,3,,2,5
+MHS1100,21,Teknik Sipil,Beton,Keramik,Tembok,Milik sendiri,Mata air,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMP,Ya,SNBP,3050000,350000,4,3111235,3,3
+MHS1101,22,Sistem Informasi,Asbes,Semen,Kayu,Menumpang keluarga,PDAM,PLN 900 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,5200000,2550000,2,7305718,2,4
+MHS1102,21,Akuntansi,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,PNS/TNI/Polri,Karyawan swasta,Sarjana,Tidak,Mandiri,,1400000,4,5973009,3,4
+MHS1103,20,Informatika,Asbes,Keramik,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,20450000,800000,6,11510349,3,4
+MHS1104,19,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Sarjana,Tidak,SNBT,3100000,5750000,2,7529982,5,5
+MHS1105,21,Ilmu Komunikasi,Genteng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Wiraswasta,SMP,Tidak,SNBP,16000000,1200000,2,10058654,4,4
+MHS1106,21,Teknik Sipil,Beton,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Tidak,SNBT,1950000,400000,1,1917081,5,4
+MHS1107,22,Teknik Sipil,Asbes,Tanah,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Pascasarjana,Tidak,Mandiri,3250000,950000,3,,3,4
+MHS1108,20,Informatika,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Tidak,SNBT,36700000,1650000,3,30230644,3,5
+MHS1109,21,Informatika,Beton,Marmer,Tembok,Menumpang keluarga,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,10200000,8250000,3,15002286,2,5
+MHS1110,22,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,PNS/TNI/Polri,Diploma,Tidak,SNBT,10950000,4100000,1,7781710,5,5
+MHS1111,23,Informatika,Beton,Tanah,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 1300 VA,Karyawan swasta,Wiraswasta,Sarjana,Tidak,SNBT,6250000,1900000,5,6070876,4,5
+MHS1112,21,Teknik Sipil,Seng,Semen,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,Mandiri,13950000,1950000,2,10243090,4,4
+MHS1113,24,Ilmu Komunikasi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,Non-PLN,Karyawan swasta,Karyawan swasta,SMA/SMK,Tidak,SNBT,5900000,3850000,4,7641595,5,5
+MHS1114,22,Sistem Informasi,Beton,Keramik,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Ya,SNBT,5100000,1050000,1,2698918,3,4
+MHS1115,21,Akuntansi,Beton,Semen,Tembok,,PDAM,PLN di atas 1300 VA,Karyawan swasta,,Sarjana,Tidak,SNBP,11700000,5500000,3,7763127,3,5
+MHS1116,22,Manajemen,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,13950000,2000000,2,13710151,5,5
+MHS1117,18,Akuntansi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3150000,1550000,4,2156089,4,3
+MHS1118,20,Akuntansi,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,8850000,2100000,4,6481915,5,5
+MHS1119,20,Informatika,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,Diploma,Tidak,Mandiri,8050000,3050000,3,8970122,2,5
+MHS1120,20,Teknik Industri,Genteng,Semen,Kayu,Kontrak/sewa,,PLN 450 VA,Buruh harian,Karyawan swasta,SMP,Tidak,Mandiri,1650000,450000,3,1522746,,2
+MHS1121,21,Manajemen,Beton,Semen,Campuran,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Profesional,Karyawan swasta,Pascasarjana,Tidak,SNBT,17000000,900000,4,14585062,4,5
+MHS1122,20,Teknik Sipil,Beton,Marmer,Kayu,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Profesional,SMP,Tidak,SNBP,11500000,2900000,1,12554956,,4
+MHS1123,21,Sistem Informasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Ya,Mandiri,12900000,2400000,5,7139588,3,5
+MHS1124,22,Psikologi,Beton,Semen,Tembok,Milik sendiri,PDAM,Non-PLN,Petani/nelayan,Karyawan swasta,SMP,Ya,SNBT,1150000,150000,5,1755854,2,1
+MHS1125,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Profesional,SMP,Tidak,Mandiri,4700000,2150000,3,6315146,4,5
+MHS1126,19,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,,PLN 450 VA,Wiraswasta,Wiraswasta,Sarjana,Ya,SNBT,6150000,,2,3763969,5,5
+MHS1127,22,Manajemen,Genteng,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 1300 VA,Buruh harian,Wiraswasta,SD,Tidak,SNBT,2800000,850000,3,2742700,1,3
+MHS1128,20,Akuntansi,Beton,Semen,Kayu,Milik sendiri,PDAM,Non-PLN,Wiraswasta,Ibu rumah tangga,Sarjana,Ya,SNBP,2750000,1250000,5,3504092,2,3
+MHS1129,18,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 450 VA,Karyawan swasta,Buruh harian,SMP,Tidak,SNBT,10250000,2500000,2,,4,5
+MHS1130,22,Teknik Industri,Seng,Marmer,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Profesional,Wiraswasta,Pascasarjana,Tidak,SNBP,12000000,,3,10588550,5,5
+MHS1131,21,Akuntansi,Beton,Semen,Bambu,Rumah dinas,Sumur tidak terlindungi,PLN 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Ya,Mandiri,6650000,400000,2,3985956,3,3
+MHS1132,20,Ilmu Komunikasi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Wiraswasta,Sarjana,Tidak,SNBT,7550000,2450000,2,8929199,5,5
+MHS1133,22,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,5550000,7400000,4,7198134,5,5
+MHS1134,19,Informatika,Genteng,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,3250000,500000,2,3229069,4,3
+MHS1135,21,Manajemen,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Karyawan swasta,SMA/SMK,Tidak,Mandiri,17850000,4400000,3,15869504,,4
+MHS1136,21,Akuntansi,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Ya,SNBT,4200000,,4,3509257,1,4
+MHS1137,20,Teknik Sipil,Seng,Semen,Kayu,Milik sendiri,Sumur terlindungi,PLN 900 VA,Wiraswasta,PNS/TNI/Polri,SMA/SMK,Tidak,SNBT,500000,1000000,6,1212367,1,2
+MHS1138,21,Psikologi,Asbes,Keramik,Kayu,Milik sendiri,PDAM,PLN 900 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,20650000,4700000,2,21316239,3,4
+MHS1139,21,Sistem Informasi,Seng,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 450 VA,Wiraswasta,Wiraswasta,SMA/SMK,Ya,Mandiri,2500000,350000,5,3188021,3,2
+MHS1140,17,Manajemen,Seng,Keramik,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 900 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,Mandiri,6650000,950000,2,6644562,2,5
+MHS1141,20,Manajemen,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN 450 VA,Karyawan swasta,Buruh harian,SMA/SMK,Ya,Mandiri,1750000,400000,3,1307384,,2
+MHS1142,21,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Ya,SNBP,3150000,1350000,2,2240543,3,4
+MHS1143,21,Psikologi,Seng,Semen,Tembok,Rumah dinas,,PLN 1300 VA,Wiraswasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3350000,1350000,4,3822025,4,4
+MHS1144,18,Sistem Informasi,Asbes,Keramik,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,PNS/TNI/Polri,Ibu rumah tangga,SMP,Tidak,SNBT,8850000,6900000,1,9131637,3,5
+MHS1145,22,Ilmu Komunikasi,Asbes,Semen,Tembok,Menumpang keluarga,PDAM,PLN 1300 VA,Karyawan swasta,Profesional,SMA/SMK,Tidak,SNBT,3850000,1050000,2,4396099,3,4
+MHS1146,21,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Profesional,Wiraswasta,SMA/SMK,Tidak,SNBT,10000000,6700000,3,7840181,3,5
+MHS1147,20,Sistem Informasi,Seng,Marmer,Bambu,Milik sendiri,Sumur terlindungi,PLN 450 VA,Buruh harian,Buruh harian,SMP,Ya,Mandiri,1650000,100000,4,1754130,2,1
+MHS1148,19,Teknik Sipil,Seng,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBT,4150000,2800000,3,5528469,4,5
+MHS1149,21,Ilmu Komunikasi,Asbes,Tanah,Tembok,Menumpang keluarga,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Ibu rumah tangga,SD,Ya,Mandiri,2300000,300000,5,3071195,2,1
+MHS1150,21,Akuntansi,Beton,Semen,Kayu,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Profesional,Sarjana,Tidak,SNBP,7100000,4700000,4,8023641,4,5
+MHS1151,23,Teknik Sipil,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,Non-PLN,Buruh harian,Wiraswasta,Sarjana,Tidak,SNBT,5600000,1050000,3,3797739,3,3
+MHS1152,23,Psikologi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,,Tidak,SNBP,4350000,5050000,4,5543481,5,5
+MHS1153,24,Manajemen,Asbes,Marmer,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,SNBP,4550000,3150000,1,3341145,5,5
+MHS1154,19,Teknik Industri,Beton,Tanah,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,Diploma,Tidak,SNBP,6150000,1450000,1,4664826,3,5
+MHS1155,21,Akuntansi,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,Karyawan swasta,Wiraswasta,Tidak tamat SD,Ya,Prestasi,1350000,500000,4,2115418,,2
+MHS1156,19,Akuntansi,Beton,Tanah,Tembok,Kontrak/sewa,Sumur tidak terlindungi,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SMA/SMK,Ya,Mandiri,8200000,3250000,6,9413008,5,5
+MHS1157,21,Akuntansi,Asbes,Tanah,Kayu,Menumpang keluarga,Mata air,PLN 450 VA,Wiraswasta,Profesional,Sarjana,Ya,SNBT,1500000,550000,5,2529586,2,2
+MHS1158,21,Teknik Industri,Seng,Tanah,Tembok,Menumpang keluarga,Sumur tidak terlindungi,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Diploma,Tidak,SNBT,2400000,1000000,1,2275363,5,3
+MHS1159,20,Akuntansi,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SMA/SMK,Ya,SNBT,9800000,5050000,3,12432884,3,4
+MHS1160,22,Akuntansi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Diploma,Tidak,Prestasi,7350000,4450000,5,7213586,4,5
+MHS1161,20,Manajemen,Beton,Semen,Kayu,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMP,Ya,SNBT,3350000,1300000,6,4283886,2,3
+MHS1162,20,Sistem Informasi,Asbes,Tanah,Kayu,Kontrak/sewa,Sumur terlindungi,PLN 450 VA,Karyawan swasta,Ibu rumah tangga,Tidak tamat SD,Ya,SNBT,1200000,300000,4,1957226,1,1
+MHS1163,19,Akuntansi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Wiraswasta,SMA/SMK,Tidak,SNBP,2250000,,3,4196815,5,4
+MHS1164,23,Teknik Industri,Beton,Semen,Tembok,Milik sendiri,,PLN 1300 VA,Petani/nelayan,Profesional,Sarjana,Tidak,Mandiri,11850000,3800000,3,13035387,2,4
+MHS1165,21,Manajemen,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN di atas 1300 VA,Wiraswasta,PNS/TNI/Polri,Diploma,Tidak,SNBT,19550000,5100000,3,21001081,2,5
+MHS1166,20,Teknik Industri,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 900 VA,PNS/TNI/Polri,Karyawan swasta,SMP,Tidak,SNBT,,800000,2,12863504,4,5
+MHS1167,21,Teknik Sipil,Beton,Tanah,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Sarjana,Ya,SNBP,6350000,2050000,1,5853589,5,5
+MHS1168,20,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Buruh harian,Pascasarjana,Tidak,Mandiri,12600000,1900000,4,11058404,3,5
+MHS1169,19,Teknik Sipil,Beton,Semen,Tembok,Kontrak/sewa,PDAM,PLN 1300 VA,Profesional,Ibu rumah tangga,SMP,Tidak,SNBT,6750000,1300000,3,7338896,5,5
+MHS1170,20,Teknik Industri,Beton,Keramik,Bambu,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,4650000,5300000,6,7915902,5,5
+MHS1171,19,Psikologi,Beton,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,Pascasarjana,Tidak,Prestasi,8450000,2450000,2,8130830,5,5
+MHS1172,19,Psikologi,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,Sarjana,Tidak,SNBT,14450000,1900000,1,7064914,3,4
+MHS1173,22,Manajemen,Beton,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,PNS/TNI/Polri,Wiraswasta,SMA/SMK,Tidak,Mandiri,6200000,3100000,2,5032852,4,5
+MHS1174,21,Ilmu Komunikasi,Seng,Keramik,Kayu,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Karyawan swasta,Profesional,Diploma,Tidak,Mandiri,11800000,1350000,1,10785970,5,5
+MHS1175,19,Ilmu Komunikasi,Asbes,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,SMA/SMK,Tidak,SNBT,6350000,1200000,5,4679866,5,4
+MHS1176,19,Ilmu Komunikasi,Beton,Semen,Kayu,Milik sendiri,PDAM,Non-PLN,Karyawan swasta,Ibu rumah tangga,SMP,Tidak,SNBP,3950000,650000,4,4642173,4,3
+MHS1177,21,Manajemen,Beton,Keramik,Tembok,Milik sendiri,,PLN di atas 1300 VA,PNS/TNI/Polri,Ibu rumah tangga,SMA/SMK,Tidak,SNBP,10100000,11500000,1,8057077,4,4
+MHS1178,20,Manajemen,Seng,Keramik,Tembok,Rumah dinas,Sumur terlindungi,PLN 900 VA,Buruh harian,Karyawan swasta,SMP,Tidak,SNBT,1700000,950000,3,1906367,3,3
+MHS1179,21,Informatika,Asbes,Tanah,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Buruh harian,Profesional,SD,Tidak,SNBP,3250000,250000,5,3282981,2,2
+MHS1180,18,Psikologi,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Profesional,Sarjana,Ya,SNBP,2750000,2000000,3,4789752,4,3
+MHS1181,20,Manajemen,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN 900 VA,PNS/TNI/Polri,Karyawan swasta,SMA/SMK,Tidak,SNBT,7600000,3700000,2,6961845,4,5
+MHS1182,19,Teknik Industri,Asbes,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN di atas 1300 VA,PNS/TNI/Polri,Buruh harian,Sarjana,Tidak,SNBP,14550000,4750000,3,10184881,4,5
+MHS1183,19,Informatika,Genteng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Buruh harian,Wiraswasta,SMA/SMK,Tidak,Mandiri,4950000,2200000,3,5880162,3,4
+MHS1184,21,Informatika,Asbes,Semen,Tembok,Kontrak/sewa,PDAM,PLN 450 VA,Karyawan swasta,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,3750000,2050000,6,3742817,3,3
+MHS1185,20,Manajemen,Beton,Keramik,Tembok,Kontrak/sewa,Mata air,PLN 900 VA,Profesional,Profesional,Sarjana,Ya,SNBP,3300000,1500000,4,3822953,3,4
+MHS1186,20,Teknik Industri,Asbes,Keramik,Tembok,Menumpang keluarga,PDAM,PLN 900 VA,Buruh harian,Ibu rumah tangga,SMA/SMK,Tidak,SNBT,2350000,2350000,3,2427846,3,3
+MHS1187,22,Teknik Sipil,Seng,Tanah,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Wiraswasta,Profesional,Sarjana,Tidak,SNBT,28050000,5050000,2,14258032,4,5
+MHS1188,20,Teknik Sipil,Asbes,Semen,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,SNBT,14400000,7500000,3,18897238,4,5
+MHS1189,22,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Ibu rumah tangga,Sarjana,Tidak,Mandiri,,1600000,4,9503961,3,4
+MHS1190,23,Manajemen,Beton,Semen,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Petani/nelayan,Ibu rumah tangga,SMP,Ya,SNBT,1400000,300000,4,1862577,1,1
+MHS1191,19,Informatika,Seng,Semen,Tembok,Menumpang keluarga,Sumur terlindungi,PLN di atas 1300 VA,Petani/nelayan,Wiraswasta,SMA/SMK,Ya,SNBP,2200000,150000,5,1375521,4,2
+MHS1192,17,Ilmu Komunikasi,Beton,Keramik,Tembok,Milik sendiri,Sumur tidak terlindungi,PLN 900 VA,Buruh harian,Karyawan swasta,SMA/SMK,Tidak,SNBT,10650000,1850000,3,10353100,3,4
+MHS1193,20,Informatika,Genteng,Semen,Tembok,Kontrak/sewa,PDAM,PLN 900 VA,Petani/nelayan,Ibu rumah tangga,SD,Tidak,Mandiri,1050000,1550000,4,2544446,2,2
+MHS1194,20,Teknik Sipil,Seng,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Profesional,Pascasarjana,Tidak,SNBP,14400000,3400000,3,15565899,4,5
+MHS1195,23,Sistem Informasi,Seng,Marmer,Tembok,Kontrak/sewa,PDAM,PLN 450 VA,Wiraswasta,Buruh harian,SD,Tidak,Prestasi,1550000,300000,4,2255695,4,3
+MHS1196,21,Teknik Sipil,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Karyawan swasta,Diploma,Tidak,Mandiri,17200000,1750000,5,7782734,4,5
+MHS1197,21,Sistem Informasi,Seng,Tanah,Tembok,Milik sendiri,Sumur terlindungi,PLN 1300 VA,Wiraswasta,Karyawan swasta,SMA/SMK,Tidak,SNBP,6450000,1950000,5,5284412,4,4
+MHS1198,21,Teknik Sipil,Asbes,Tanah,Tembok,Kontrak/sewa,Sumur terlindungi,PLN di atas 1300 VA,Wiraswasta,Karyawan swasta,Diploma,Tidak,SNBT,24850000,2350000,2,23272856,4,5
+MHS1199,19,Psikologi,Beton,Keramik,Tembok,Milik sendiri,PDAM,PLN 1300 VA,Karyawan swasta,Ibu rumah tangga,Pascasarjana,Ya,Mandiri,11150000,1850000,3,9741568,5,4
+MHS1200,21,Ilmu Komunikasi,Beton,Semen,Tembok,Milik sendiri,PDAM,PLN di atas 1300 VA,Karyawan swasta,Wiraswasta,SD,Tidak,SNBT,3900000,10100000,3,11930735,5,5
