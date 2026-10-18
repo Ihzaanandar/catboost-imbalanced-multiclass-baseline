@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🐱 CatBoost Baseline for Multiclass Classification
-### Student Tuition-Fee Category Prediction · GEMASTIK-style Practice Project
+### Student Tuition-Fee Category Prediction · Data Science Portfolio Project
 
 **A reproducible, end-to-end CatBoost baseline for imbalanced multiclass tabular data, with native categorical handling, class weighting, stratified cross-validation, and exported artifacts.**
 
@@ -18,7 +18,7 @@
 
 ---
 
-> ⚠️ **Dataset notice:** The included CSV is **synthetic practice data**. It is **not** the official GEMASTIK dataset and contains **no real student records**. Results must not be interpreted as performance on real student populations.
+> ⚠️ **Dataset notice:** The included CSV is **synthetic practice data** and contains **no real student records**. Results must not be interpreted as performance on real student populations.
 
 ## 📑 Table of Contents
 
@@ -142,9 +142,8 @@ No hyperparameter tuning is performed. A fixed baseline is a reproducible point 
 ## 🗂️ Repository structure
 
 ```text
-gemastik-catboost-baseline/
-├── data/
-│   └── dataset_latihan_gemastik_mahasiswa.csv
+catboost-baseline/
+├── data/                      # synthetic student tuition-fee dataset (CSV)
 ├── notebooks/
 │   └── catboost_baseline_end_to_end.ipynb
 ├── artifacts/                 # generated locally after running the notebook
@@ -212,6 +211,6 @@ Code is licensed under the [MIT License](LICENSE). The included synthetic datase
 
 **Made by [@Ihzaanandar](https://github.com/Ihzaanandar)** · If this helps your learning, consider giving the repo a ⭐
 
-<sub>Keywords: CatBoost, gradient boosting, multiclass classification, imbalanced data, tabular machine learning, categorical features, class weights, stratified cross-validation, baseline model, GEMASTIK, Python, Jupyter Notebook</sub>
+<sub>Keywords: CatBoost, gradient boosting, multiclass classification, imbalanced data, tabular machine learning, categorical features, class weights, stratified cross-validation, baseline model, Python, Jupyter Notebook</sub>
 
 </div>
